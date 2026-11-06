@@ -1,0 +1,610 @@
+respondent_id,q01_age_group,q02_gender,q03_residence,q04_occupation,q05_income_aed,q06_orders_per_month,q07_clothing_spend_aed,q08_primary_brand,q09_avg_item_price_aed,q10_grey_pref,q11_sustain_importance,q12_brand_loyalty,q13_concept_appeal,q14_price_fairness,q15_wtp_tshirt_aed,q16_premium_pct,q17_switch_likelihood,q18_trust_claims,q19_tshirts,q19_hoodies,q19_trousers,q19_outerwear,q19_formal,q19_knitwear,q19_activewear,q19_accessories,q20_subscription_box,q20_limited_editions,q20_eco_certified,q20_styling_guide,q20_loyalty,q20_free_returns,q20_custom_fit,q21_purchase_intent,q22_subscribe,q23_popup,q24_nps,q25_spend_6m_aed,q26_orders_per_year,q27_sub_max_aed,q28_discovery,q29_influencer,q30_open_text
+1,35-50,Female,Metro core,Employed,23900.0,2,1822.0,Uniqlo,88.0,2.0,4,4,1,5,106.0,5.0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,No,No,1,,3,12.0,Instagram,2,Worried the quality will not justify the price
+2,25-34,Male,Metro core,Self-employed,10000.0,4,641.0,Shein,29.0,5.0,4,3,2,3,17.0,0.0,1,4,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,No,Yes,2,9.0,2,2.0,Instagram,3,Not sure the sustainable claim is genuine
+3,35-50,Male,Suburban,Employed,4300.0,4,167.0,Shein,15.0,5.0,2,2,4,3,12.0,5.0,5,4,1,1,1,1,0,0,1,1,0,0,0,1,0,0,0,4,No,No,7,228.0,6,12.0,Facebook,3,"Nothing really, I love the minimalist idea"
+4,25-34,Male,Suburban,Self-employed,6300.0,0,562.0,H&M,48.0,3.0,3,2,3,4,34.0,5.0,5,3,1,1,1,0,1,0,1,1,1,1,0,0,1,1,0,5,Yes,Yes,8,772.0,5,28.0,Friends,2,"Nothing really, I love the minimalist idea"
+5,16-24,Male,Metro core,Employed,20900.0,4,1633.0,Local/Other,85.0,4.0,4,2,4,4,79.0,5.0,5,2,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0,2,Maybe,No,5,1031.0,4,23.0,Friends,2,Delivery and returns need to be easy
+6,35-50,Male,Metro core,Employed,12400.0,4,836.0,Local/Other,79.0,3.0,5,2,3,2,68.0,10.0,3,3,1,1,1,1,0,0,0,1,0,0,0,1,1,1,0,2,No,No,8,534.0,3,38.0,Friends,1,Worried the quality will not justify the price
+7,35-50,Male,Metro core,Employed,10600.0,0,934.0,Local/Other,76.0,4.0,5,3,3,4,110.0,15.0,2,2,1,1,1,1,1,0,0,1,1,0,1,1,1,1,0,4,No,Yes,8,1114.0,5,72.0,Facebook,4,"Great concept, please add more basics"
+8,35-50,Female,Metro core,Employed,31100.0,2,1237.0,Uniqlo,100.0,5.0,5,3,3,4,131.0,10.0,3,3,1,0,0,0,1,0,1,0,1,0,1,1,0,1,0,5,No,Yes,9,2461.0,6,71.0,Friends,3,"Love eco-friendly fabrics, would buy immediately"
+9,16-24,Male,Metro core,Student,4400.0,3,264.0,Zara,56.0,1.0,3,3,3,2,40.0,,3,2,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,2,Maybe,No,4,27.0,2,11.0,Friends,4,"I already shop at H&M and Zara, why switch"
+10,25-34,Female,Metro core,Self-employed,14200.0,3,826.0,Zara,73.0,3.0,2,4,3,3,60.0,0.0,4,3,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,2,No,No,6,128.0,3,17.0,Friends,3,Worried the quality will not justify the price
+11,25-34,Male,Suburban,Employed,9600.0,1,642.0,H&M,67.0,3.0,4,5,3,3,58.0,5.0,2,3,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,No,No,1,22.0,2,7.0,Friends,1,Too expensive compared to Shein
+12,35-50,Male,Suburban,Other,7600.0,0,577.0,Uniqlo,53.0,4.0,2,4,4,2,55.0,0.0,3,4,1,1,0,0,0,0,0,0,1,0,1,1,1,0,0,1,No,No,0,11.0,1,9.0,Instagram,2,Worried the quality will not justify the price
+13,25-34,Male,Metro core,Employed,12200.0,3,849.0,Uniqlo,,4.0,2,3,2,1,81.0,15.0,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,No,No,1,31.0,2,15.0,Instagram,2,Delivery and returns need to be easy
+14,35-50,Prefer not to say,Metro core,Employed,30500.0,4,2220.0,Uniqlo,108.0,5.0,4,4,4,4,200.0,0.0,3,3,1,0,1,1,0,0,0,1,1,1,1,1,1,1,0,5,Yes,Yes,10,4311.0,7,48.0,Search,3,"Nothing really, I love the minimalist idea"
+15,25-34,Female,Metro core,Employed,13300.0,2,1204.0,Zara,82.0,3.0,4,2,2,2,84.0,10.0,4,4,1,0,1,0,0,0,1,0,1,1,0,1,0,0,0,3,No,No,7,844.0,4,59.0,TikTok,4,Depends on the fit and fabric
+16,16-24,Male,Metro core,Student,3500.0,3,107.0,Zara,53.0,,3,3,3,3,39.0,0.0,3,3,1,0,1,1,1,0,1,1,0,0,1,1,1,0,0,3,Yes,No,7,66.0,4,40.0,TikTok,3,Need more category choice
+17,25-34,Male,Metro core,Employed,18600.0,4,1762.0,Uniqlo,64.0,4.0,2,3,4,1,40.0,0.0,3,2,0,1,1,0,1,0,0,0,0,1,0,0,0,1,0,3,No,No,5,804.0,8,35.0,Instagram,3,Need more category choice
+18,16-24,Female,Metro core,Student,1500.0,2,40.0,Zara,15.0,3.0,3,3,3,3,20.0,5.0,3,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,No,No,3,3.0,3,1.0,TikTok,3,"Only grey is too limiting, I need colour"
+19,35-50,Female,Suburban,Employed,20900.0,1,1112.0,Local/Other,79.0,3.0,3,5,3,3,98.0,10.0,1,4,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,1,No,No,1,20.0,2,6.0,Pop-up,1,Too expensive compared to Shein
+20,25-34,Female,Metro core,Self-employed,12300.0,2,474.0,Shein,23.0,4.0,3,2,3,4,29.0,5.0,5,5,1,0,0,1,0,0,0,0,1,1,0,1,1,1,0,5,Yes,Yes,10,846.0,7,21.0,Friends,4,"Nothing really, I love the minimalist idea"
+21,35-50,Male,Metro core,Employed,4800.0,1,262.0,H&M,33.0,4.0,1,3,2,3,20.0,0.0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,2,No,Yes,1,13.0,2,5.0,Search,3,Too expensive compared to Shein
+22,25-34,Female,Metro core,Employed,4200.0,3,206.0,,29.0,2.0,2,4,2,2,30.0,5.0,2,4,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,2,No,No,1,19.0,2,7.0,TikTok,3,Delivery and returns need to be easy
+23,35-50,Prefer not to say,Suburban,Employed,,1,353.0,Shein,56.0,3.0,4,3,3,3,78.0,10.0,4,4,1,1,0,1,1,1,0,1,0,0,1,1,0,0,0,3,No,Yes,5,279.0,6,32.0,TikTok,3,Need more category choice
+24,35-50,Female,Suburban,Employed,18900.0,3,1147.0,Zara,94.0,3.0,3,3,3,3,71.0,5.0,3,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,No,No,1,81.0,2,14.0,Search,3,"Only grey is too limiting, I need colour"
+25,35-50,Prefer not to say,Metro core,Self-employed,19900.0,0,1611.0,Shein,,3.0,5,2,5,3,101.0,10.0,3,3,1,1,0,0,1,1,0,0,0,0,1,0,1,0,0,4,No,Yes,6,1832.0,4,62.0,Friends,2,"Nothing really, I love the minimalist idea"
+26,16-24,Female,Suburban,Student,2700.0,0,130.0,H&M,26.0,3.0,2,2,2,3,10.0,0.0,4,1,1,1,0,1,0,0,1,1,1,1,0,0,1,0,0,2,No,Yes,5,9.0,2,5.0,Pop-up,5,Too expensive compared to Shein
+27,25-34,Male,Metro core,Employed,26500.0,4,2073.0,H&M,82.0,5.0,3,1,4,5,136.0,5.0,5,3,1,1,1,1,0,0,0,1,1,1,0,1,0,1,1,3,Yes,Yes,10,5347.0,9,75.0,Friends,5,"Nothing really, I love the minimalist idea"
+28,16-24,Female,Metro core,Student,1400.0,1,40.0,,16.0,4.0,3,3,4,2,13.0,10.0,3,3,1,0,0,1,0,1,1,1,0,1,0,0,0,0,0,4,No,No,8,32.0,5,12.0,Instagram,2,"Love eco-friendly fabrics, would buy immediately"
+29,16-24,Male,Other,Self-employed,13800.0,2,404.0,Shein,59.0,2.0,3,1,2,1,26.0,0.0,3,4,1,0,0,1,1,0,1,1,0,0,0,1,0,1,0,3,No,No,5,72.0,4,13.0,Search,1,Depends on the fit and fabric
+30,25-34,Male,Metro core,Employed,,11,518.0,Local/Other,85.0,3.0,2,3,3,2,80.0,0.0,3,2,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,2,No,No,5,60.0,4,12.0,TikTok,4,Delivery and returns need to be easy
+31,35-50,Male,Metro core,Self-employed,13600.0,6,850.0,Local/Other,68.0,4.0,4,1,3,3,70.0,10.0,3,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,4,No,No,7,777.0,5,37.0,Friends,3,"Great concept, please add more basics"
+32,35-50,Male,Metro core,Employed,15000.0,6,1020.0,Zara,60.0,2.0,3,3,3,2,52.0,0.0,5,2,1,1,1,0,1,0,0,1,0,0,1,0,1,1,1,2,No,No,7,547.0,4,26.0,TikTok,3,"I already shop at H&M and Zara, why switch"
+33,16-24,Female,Metro core,Student,1200.0,5,103.0,,15.0,3.0,5,4,3,2,20.0,0.0,3,2,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,Yes,No,7,13.0,3,5.0,Facebook,5,Not sure the sustainable claim is genuine
+34,25-34,Female,Suburban,Employed,20700.0,2,1563.0,H&M,78.0,4.0,3,3,3,2,62.0,10.0,3,3,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,3,No,No,4,260.0,3,26.0,Friends,2,Depends on the fit and fabric
+35,25-34,Female,Metro core,Employed,8100.0,2,422.0,Uniqlo,27.0,4.0,1,3,2,5,15.0,0.0,2,2,1,1,1,0,0,0,1,0,1,0,1,0,1,1,0,2,No,No,3,17.0,2,4.0,TikTok,4,"I already shop at H&M and Zara, why switch"
+36,16-24,Female,Metro core,Student,6200.0,3,571.0,Local/Other,73.0,4.0,4,2,2,2,64.0,5.0,5,2,1,1,0,0,1,1,1,0,0,1,1,0,1,1,1,3,No,Yes,7,246.0,4,26.0,Search,3,Would want to try in a pop-up first
+37,16-24,Male,Metro core,Student,2500.0,4,208.0,Zara,40.0,5.0,5,2,3,3,56.0,5.0,2,4,0,1,0,1,0,1,0,0,0,0,1,1,1,1,0,4,No,No,6,288.0,9,21.0,Instagram,3,"Great concept, please add more basics"
+38,25-34,Male,Metro core,Employed,17500.0,3,967.0,,68.0,4.0,4,4,4,2,99.0,5.0,3,2,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,3,No,No,4,1407.44177647906,5,22.0,Friends,3,Depends on the fit and fabric
+39,16-24,Male,Metro core,Employed,10700.0,2,540.0,H&M,46.0,3.0,1,3,4,4,34.0,0.0,4,2,1,1,1,1,0,1,1,0,0,1,0,1,0,1,0,4,No,Yes,6,1211.0,7,17.0,Instagram,5,"Nothing really, I love the minimalist idea"
+40,25-34,Male,Metro core,Employed,10800.0,1,421.0,H&M,78.0,4.0,3,1,1,4,49.0,5.0,2,4,1,1,1,0,0,1,0,0,1,0,1,1,1,1,0,3,No,No,5,87.0,2,25.0,Friends,1,Would want to try in a pop-up first
+41,25-34,Male,Suburban,Other,4600.0,3,363.0,Uniqlo,29.0,3.0,3,2,3,5,35.0,5.0,3,3,1,1,1,1,0,0,1,1,1,0,0,0,1,0,0,3,No,Yes,4,303.0,3,31.0,Friends,4,Depends on the fit and fabric
+42,35-50,Male,Metro core,Employed,15700.0,8,1047.0,Local/Other,590.0,4.0,1,2,5,5,,10.0,5,2,1,1,1,0,1,1,0,0,1,0,0,0,1,0,1,4,Yes,Yes,10,1644.0,9,29.0,Friends,3,"Nothing really, I love the minimalist idea"
+43,25-34,Female,Metro core,Employed,12700.0,4,553.0,Zara,68.0,5.0,3,3,2,2,76.0,0.0,2,3,0,0,1,0,0,0,1,1,0,1,0,1,1,1,0,1,Yes,No,5,95.0,4,18.0,Pop-up,3,Worried the quality will not justify the price
+44,16-24,Female,Metro core,Self-employed,9800.0,4,585.0,Shein,40.0,2.0,3,3,3,2,39.0,15.0,3,3,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1,2,No,Yes,3,15.0,2,5.0,Friends,3,Not sure the sustainable claim is genuine
+45,35-50,Male,Metro core,Employed,14000.0,3,1052.0,H&M,80.0,5.0,1,3,4,3,40.0,0.0,5,3,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,4,No,Yes,4,1440.0,5,55.0,Search,2,"Nothing really, I love the minimalist idea"
+46,35-50,Male,Metro core,Employed,11300.0,0,533.0,Shein,60.0,5.0,2,2,4,4,73.0,0.0,4,4,1,1,1,1,1,1,0,1,1,1,0,1,0,1,0,5,Yes,Yes,10,831.0,11,39.0,Search,2,"Nothing really, I love the minimalist idea"
+47,25-34,Female,Metro core,Employed,31000.0,3,1085.0,Uniqlo,118.0,2.0,3,3,1,2,144.0,15.0,1,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,No,No,0,0.0,1,1.0,TikTok,2,"Only grey is too limiting, I need colour"
+48,16-24,Female,Metro core,Employed,10600.0,3,460.0,H&M,62.0,4.0,3,4,4,4,,5.0,2,3,1,1,0,0,1,0,1,1,0,0,1,1,0,1,1,5,Yes,Yes,10,561.0,10,44.0,Friends,3,"Great concept, please add more basics"
+49,25-34,Male,Suburban,Employed,22000.0,1,1228.0,Uniqlo,108.0,5.0,2,4,3,3,96.0,5.0,2,2,1,1,0,0,0,0,1,1,0,0,1,0,0,1,0,2,No,Yes,2,,2,23.0,Instagram,2,Worried the quality will not justify the price
+50,16-24,Female,Other,Employed,10100.0,1,1103.0,Shein,29.0,5.0,2,2,3,4,11.0,5.0,4,2,1,1,1,0,0,1,1,1,0,1,1,1,0,0,0,4,No,Yes,9,2172.0,7,26.0,Instagram,4,"Nothing really, I love the minimalist idea"
+51,16-24,Female,Metro core,Student,2800.0,4,314.0,Uniqlo,150.0,2.0,4,3,2,2,14.0,5.0,3,4,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,No,No,2,4.0,2,2.0,TikTok,3,Worried the quality will not justify the price
+52,16-24,Male,Metro core,Self-employed,7700.0,2,310.0,H&M,43.0,3.0,4,3,2,1,11.0,5.0,3,4,1,1,0,1,0,0,1,0,0,1,0,0,0,1,0,2,No,No,6,112.0,4,12.0,TikTok,3,Worried the quality will not justify the price
+53,35-50,Male,Metro core,Employed,12100.0,1,646.0,H&M,54.0,3.0,3,5,2,3,31.0,0.0,3,3,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,2,No,No,2,18.0,2,7.0,Friends,2,"Only grey is too limiting, I need colour"
+54,25-34,Female,Metro core,Self-employed,15400.0,2,601.0,Local/Other,64.0,1.0,2,3,3,3,62.0,10.0,3,4,0,0,1,1,0,1,1,1,0,1,0,0,1,0,0,1,No,No,4,31.0,2,8.0,Friends,2,"I already shop at H&M and Zara, why switch"
+55,25-34,Male,Metro core,Employed,22500.0,5,1242.0,Uniqlo,79.0,,4,3,3,4,92.0,10.0,2,4,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,2,Yes,No,4,234.0,3,16.0,Friends,3,Delivery and returns need to be easy
+56,35-50,Female,Suburban,Employed,16400.0,2,924.0,Shein,47.0,3.0,3,4,3,3,29.0,10.0,4,3,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,2,No,No,6,312.0,5,19.0,Search,3,"I already shop at H&M and Zara, why switch"
+57,25-34,Male,Suburban,Employed,,3,1248.0,Uniqlo,99.0,2.0,4,3,2,5,84.0,15.0,4,2,1,0,0,1,1,1,0,0,0,1,0,0,0,1,0,3,No,No,6,750.0,4,51.0,Instagram,2,Would want to try in a pop-up first
+58,25-34,Female,Suburban,Employed,14700.0,2,948.0,Shein,76.0,4.0,5,4,4,4,76.0,10.0,3,5,1,1,1,0,0,1,0,0,1,1,0,1,0,1,0,4,No,Yes,9,2141.0,6,52.0,Facebook,2,"Love eco-friendly fabrics, would buy immediately"
+59,16-24,Male,Metro core,Student,5200.0,3,519.0,H&M,15.0,3.0,2,3,3,3,14.0,0.0,3,4,1,1,1,0,0,0,0,1,0,1,0,1,1,1,0,4,No,No,4,120.0,3,5.0,Instagram,4,Worried the quality will not justify the price
+60,16-24,Female,Other,Student,2400.0,3,40.0,Zara,15.0,4.0,1,2,2,4,10.0,15.0,4,5,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,Yes,Yes,4,7.0,3,4.0,Instagram,2,"I already shop at H&M and Zara, why switch"
+61,25-34,Female,Metro core,Self-employed,41000.0,6,,Uniqlo,99.0,3.0,2,2,5,5,98.0,0.0,4,5,1,1,1,1,0,0,1,0,1,1,0,0,0,1,0,4,No,Yes,9,3603.0,4,74.0,Search,3,"Great concept, please add more basics"
+62,25-34,Male,Metro core,Employed,,2,307.0,H&M,68.0,3.0,3,4,3,4,65.0,5.0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,No,Yes,2,17.0,3,8.0,Instagram,3,"Only grey is too limiting, I need colour"
+63,25-34,Female,Metro core,Employed,7800.0,3,420.0,H&M,50.0,3.0,4,3,3,3,40.0,5.0,4,2,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,3,No,Yes,8,447.0,5,31.0,Instagram,3,Need more category choice
+64,35-50,Female,Other,Employed,,3,751.0,Uniqlo,53.0,4.0,2,5,4,3,41.0,0.0,3,1,1,1,1,1,0,0,1,0,0,0,1,0,1,1,0,4,No,Yes,5,4642.152187141988,6,19.0,Facebook,4,"Great concept, please add more basics"
+65,25-34,Female,Metro core,Employed,31400.0,1,2318.0,Shein,84.0,3.0,2,3,2,3,43.0,10.0,4,4,1,0,1,0,0,0,0,1,1,0,1,0,1,0,0,3,No,Yes,8,942.0,3,40.0,TikTok,2,Need more category choice
+66,25-34,Male,Suburban,Employed,15900.0,3,695.0,Uniqlo,97.0,,3,2,4,3,99.0,5.0,3,4,1,1,0,0,0,1,0,1,1,0,0,1,0,0,1,5,No,Yes,7,1095.0,7,44.0,Friends,1,"Nothing really, I love the minimalist idea"
+67,25-34,Male,Metro core,Self-employed,12000.0,3,608.0,H&M,66.0,4.0,2,4,4,5,80.0,5.0,3,3,1,0,1,1,0,1,1,1,0,0,0,1,1,1,0,4,Yes,Yes,9,555.0,8,31.0,Search,2,"Love eco-friendly fabrics, would buy immediately"
+68,16-24,Prefer not to say,Other,Student,4400.0,1,320.0,Local/Other,24.0,2.0,3,3,4,3,18.0,0.0,4,2,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,3,No,Yes,7,204.0,5,11.0,Friends,3,Need more category choice
+69,16-24,Female,Metro core,Student,3400.0,1,338.0,H&M,32.0,3.0,3,3,3,3,14.0,0.0,3,3,1,0,0,1,0,0,1,1,0,0,1,1,1,0,0,2,No,No,2,9.0,2,4.0,TikTok,1,Delivery and returns need to be easy
+70,25-34,Female,Metro core,Employed,26600.0,2,1575.0,H&M,87.0,5.0,1,3,3,3,75.0,0.0,3,2,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,4,No,No,4,521.0,4,25.0,Friends,4,Depends on the fit and fabric
+71,16-24,Female,Other,Student,1200.0,1,40.0,Local/Other,15.0,5.0,3,3,5,2,21.0,5.0,4,4,1,0,1,0,0,0,1,0,0,1,1,1,1,0,0,4,Maybe,Yes,8,64.0,9,9.0,Pop-up,4,"Love eco-friendly fabrics, would buy immediately"
+72,25-34,Male,Metro core,Self-employed,12400.0,6,563.0,Shein,37.0,5.0,3,3,4,3,38.0,5.0,3,3,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,3,No,Yes,4,230.0,4,14.0,Instagram,2,Need more category choice
+73,35-50,Prefer not to say,Metro core,Employed,12100.0,4,414.0,Local/Other,80.0,2.0,4,4,3,3,78.0,15.0,3,4,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,No,No,3,32.0,3,16.0,Pop-up,2,Not sure the sustainable claim is genuine
+74,16-24,Male,Metro core,Other,2500.0,5,65.0,Shein,15.0,4.0,3,3,3,4,20.0,5.0,4,3,1,1,1,1,1,0,0,1,1,1,0,0,0,0,1,3,Yes,Yes,8,131.0,9,13.0,Facebook,4,Would want to try in a pop-up first
+75,16-24,Male,Metro core,Self-employed,22600.0,2,1594.0,Uniqlo,109.0,4.0,5,4,4,4,198.0,0.0,2,5,1,1,1,1,0,1,0,0,0,0,1,0,0,1,1,3,No,Yes,8,1984.0,6,55.0,Friends,3,Would want to try in a pop-up first
+76,16-24,Female,Metro core,Employed,9700.0,3,797.0,H&M,80.0,4.0,3,3,4,2,75.0,10.0,3,4,0,1,1,0,1,0,1,0,0,1,0,1,1,1,0,4,No,Yes,5,381.0,3,27.0,Instagram,4,"Nothing really, I love the minimalist idea"
+77,16-24,Male,Metro core,Student,3500.0,6,128.0,Zara,48.0,1.0,2,3,1,4,32.0,5.0,1,2,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,2,No,No,1,4.0,2,3.0,Friends,2,Not sure the sustainable claim is genuine
+78,25-34,Female,Metro core,Employed,31800.0,4,,Local/Other,88.0,3.0,2,3,2,4,76.0,5.0,2,4,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2,No,No,0,25.0,1,3.0,Pop-up,3,"I already shop at H&M and Zara, why switch"
+79,25-34,Female,Suburban,Employed,9400.0,3,679.0,Shein,52.0,5.0,1,3,1,4,39.0,0.0,1,3,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,No,No,3,16.0,2,6.0,Friends,3,Worried the quality will not justify the price
+80,35-50,Female,Metro core,Self-employed,15600.0,4,1114.0,Zara,93.0,4.0,5,3,3,4,126.0,5.0,3,4,1,1,1,1,0,0,1,0,1,0,1,1,0,0,0,2,No,No,6,697.0,4,47.0,Instagram,4,"I already shop at H&M and Zara, why switch"
+81,25-34,Female,Metro core,Employed,11600.0,3,582.0,Zara,116.0,2.0,3,3,5,4,,15.0,4,4,0,0,0,1,1,1,0,1,1,1,1,0,1,1,1,3,Maybe,Yes,9,,7,53.0,Instagram,4,Depends on the fit and fabric
+82,25-34,Female,Metro core,Employed,17200.0,4,859.0,Zara,94.0,4.0,3,4,3,4,109.0,5.0,2,5,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,3,No,Yes,7,533.0,6,39.0,Pop-up,2,Would want to try in a pop-up first
+83,35-50,Female,Metro core,Employed,11500.0,2,346.0,Zara,87.0,2.0,3,2,4,2,58.0,0.0,4,1,1,1,1,0,0,0,0,0,1,0,0,1,1,1,0,2,Maybe,No,4,38.0,2,16.0,Friends,3,Delivery and returns need to be easy
+84,16-24,Female,Suburban,Employed,8300.0,2,358.0,Local/Other,59.0,2.0,4,3,4,4,78.0,10.0,4,5,1,1,1,1,0,1,0,1,0,1,0,1,1,0,0,4,No,No,10,586.0,10,49.0,Search,3,"Great concept, please add more basics"
+85,16-24,Male,Other,Student,4000.0,0,131.0,H&M,32.0,5.0,4,5,4,3,18.0,10.0,4,3,1,1,1,0,1,0,0,0,1,1,0,1,1,1,0,4,No,Yes,10,232.0,8,32.0,TikTok,3,"Love eco-friendly fabrics, would buy immediately"
+86,16-24,Female,Other,Student,3000.0,1,193.0,Zara,33.0,3.0,3,3,3,3,14.0,5.0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,No,No,5,42.0,4,5.0,Instagram,3,Would want to try in a pop-up first
+87,25-34,Female,Metro core,Employed,4400.0,3,151.0,Local/Other,40.0,3.0,4,3,3,3,54.0,0.0,2,4,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,3,No,No,4,98.0,5,25.0,Pop-up,1,Would want to try in a pop-up first
+88,25-34,Male,Metro core,Self-employed,8100.0,2,296.0,Uniqlo,70.0,2.0,4,4,4,3,61.0,0.0,3,2,1,1,1,1,1,0,0,1,1,0,1,0,0,1,0,2,No,Yes,1,15.0,2,11.0,Pop-up,3,Not sure the sustainable claim is genuine
+89,16-24,Male,Metro core,Employed,21600.0,4,2298.0,Zara,113.0,2.0,5,1,4,4,137.0,5.0,5,4,0,1,1,0,1,1,1,1,0,1,0,0,0,1,0,5,No,Yes,8,2724.0,12,76.0,TikTok,3,"Nothing really, I love the minimalist idea"
+90,25-34,Male,Metro core,Employed,13200.0,4,1027.0,,86.0,4.0,4,4,3,3,71.0,10.0,1,4,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,3,Yes,Yes,7,612.0,4,30.0,Pop-up,3,Would want to try in a pop-up first
+91,16-24,Female,Metro core,Student,1800.0,1,101.0,H&M,15.0,3.0,3,2,2,4,10.0,5.0,4,3,1,1,1,0,0,0,1,0,0,1,1,1,1,1,0,3,No,No,6,,5,9.0,TikTok,3,Depends on the fit and fabric
+92,25-34,Male,Suburban,Employed,10200.0,2,816.0,H&M,56.0,1.0,2,3,3,3,54.0,0.0,4,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,3,No,Yes,5,970.0,3,23.0,Instagram,4,Would want to try in a pop-up first
+93,25-34,Female,Metro core,Employed,11100.0,1,410.0,H&M,44.0,,2,4,1,3,25.0,5.0,1,2,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,3,No,Yes,3,24.0,3,6.0,Instagram,4,Depends on the fit and fabric
+94,25-34,Female,Metro core,Self-employed,19500.0,2,1134.0,,106.0,4.0,3,3,5,3,1150.0,5.0,4,4,1,1,0,0,1,1,1,0,0,0,1,1,0,0,1,5,Maybe,Yes,10,2424.0,11,73.0,TikTok,2,"Love eco-friendly fabrics, would buy immediately"
+95,16-24,Male,Metro core,Student,1400.0,3,40.0,H&M,15.0,3.0,3,4,4,1,10.0,5.0,3,5,0,1,0,1,0,0,0,0,1,0,1,1,1,1,0,5,Maybe,Yes,10,63.0,7,8.0,Friends,2,"Nothing really, I love the minimalist idea"
+96,25-34,Male,Metro core,Employed,7500.0,1,357.0,Zara,79.0,4.0,4,4,3,3,69.0,0.0,2,1,1,1,1,0,1,1,0,0,0,1,1,0,1,0,0,2,No,No,2,115.0,3,35.0,TikTok,2,"I already shop at H&M and Zara, why switch"
+97,25-34,Male,Metro core,Employed,12400.0,1,564.0,H&M,71.0,3.0,3,4,2,3,61.0,0.0,2,5,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,No,Yes,1,25.0,2,10.0,Search,3,Delivery and returns need to be easy
+98,16-24,Male,Metro core,Student,2400.0,2,138.0,Local/Other,22.0,4.0,2,3,5,4,11.0,10.0,3,3,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,5,Yes,Yes,9,191.0,6,28.0,Instagram,4,"Great concept, please add more basics"
+99,16-24,Male,Suburban,Student,3200.0,2,231.0,H&M,25.0,4.0,2,2,3,3,300.0,5.0,3,4,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,3,No,No,2,44.0,2,7.0,Friends,3,Depends on the fit and fabric
+100,35-50,Female,Metro core,Employed,85000.0,1,400.0,Zara,56.0,1.0,4,5,2,3,64.0,10.0,1,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,No,No,1,3.0,1,3.0,Friends,2,Worried the quality will not justify the price
+101,35-50,Female,Metro core,Student,4000.0,5,211.0,Local/Other,,,2,2,3,4,17.0,5.0,3,3,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,No,No,2,8.0,2,2.0,Instagram,2,Too expensive compared to Shein
+102,25-34,Female,Metro core,Employed,18000.0,1,926.0,H&M,104.0,5.0,3,2,3,4,,5.0,3,3,1,0,1,1,0,1,0,1,0,1,1,1,1,1,0,3,No,No,8,694.0,4,48.0,Friends,4,Depends on the fit and fabric
+103,16-24,Female,Suburban,Employed,13700.0,1,577.0,Zara,84.0,2.0,2,2,2,1,45.0,0.0,4,2,1,1,0,0,0,0,0,0,1,1,1,0,1,0,0,2,No,No,2,13.0,2,8.0,Search,2,Not sure the sustainable claim is genuine
+104,35-50,Male,Metro core,Self-employed,20100.0,1,1352.0,Shein,76.0,3.0,3,3,3,3,77.0,5.0,3,3,1,1,1,0,0,1,0,1,0,0,0,0,0,1,1,5,No,Yes,9,2969.0,4,46.0,Search,3,"Nothing really, I love the minimalist idea"
+105,35-50,Female,Suburban,Employed,14200.0,1,502.0,Uniqlo,100.0,5.0,2,3,4,3,77.0,5.0,2,3,1,0,1,1,1,0,0,0,0,0,0,1,1,1,1,4,No,Yes,7,624.0,9,57.0,TikTok,3,"Nothing really, I love the minimalist idea"
+106,25-34,Male,Other,Employed,7600.0,3,629.0,H&M,46.0,3.0,4,4,5,3,55.0,10.0,5,2,0,1,1,1,0,0,0,0,1,1,1,1,1,1,0,3,Yes,Yes,8,358.0,5,29.0,Friends,4,Would want to try in a pop-up first
+107,25-34,Male,Metro core,Self-employed,13600.0,2,1052.0,Shein,54.0,3.0,5,2,4,3,73.0,0.0,4,4,1,0,1,1,0,1,0,0,1,1,0,0,1,0,1,5,Yes,Yes,10,1982.0,10,52.0,Instagram,3,"Nothing really, I love the minimalist idea"
+108,16-24,Male,Suburban,Student,4400.0,1,285.0,Uniqlo,45.0,4.0,3,4,4,3,27.0,0.0,3,2,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,5,Yes,No,10,,6,18.0,TikTok,5,Need more category choice
+109,16-24,Female,Metro core,Employed,,2,817.0,Zara,56.0,5.0,4,4,4,4,67.0,10.0,3,2,1,1,1,0,0,1,1,1,1,1,1,1,0,1,0,5,Yes,Yes,10,738.0,7,43.0,TikTok,1,"Love eco-friendly fabrics, would buy immediately"
+110,35-50,Female,Other,Employed,10000.0,1,302.0,H&M,58.0,,5,3,3,3,55.0,15.0,3,5,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,2,No,Yes,2,20.0,2,11.0,Search,2,Worried the quality will not justify the price
+111,25-34,Prefer not to say,Metro core,Employed,8800.0,3,390.0,H&M,66.0,2.0,2,2,2,3,56.0,10.0,3,2,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,1,No,No,1,8.0,2,5.0,Friends,4,Not sure the sustainable claim is genuine
+112,16-24,Male,Other,Student,2700.0,0,175.0,Shein,15.0,3.0,3,1,3,1,10.0,5.0,5,2,1,1,0,1,0,0,1,1,1,1,0,1,0,1,1,4,Yes,Yes,8,232.0,5,8.0,Instagram,3,"Love eco-friendly fabrics, would buy immediately"
+113,16-24,Male,Metro core,Self-employed,11800.0,2,584.0,,73.0,4.0,4,3,4,4,80.0,10.0,2,3,0,1,0,1,0,0,1,0,1,0,1,0,1,1,0,4,Maybe,Yes,9,,6,49.0,Search,2,"Love eco-friendly fabrics, would buy immediately"
+114,25-34,Male,Metro core,Employed,13700.0,6,716.0,H&M,67.0,3.0,3,4,2,2,55.0,5.0,1,2,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,2,No,No,2,7.0,2,2.0,Friends,1,"Only grey is too limiting, I need colour"
+115,16-24,Male,Metro core,Student,3200.0,5,306.0,Zara,70.0,4.0,4,4,3,4,74.0,10.0,1,3,1,0,0,1,1,0,1,1,1,0,1,1,1,0,0,3,Yes,No,6,240.0,5,31.0,Instagram,3,Depends on the fit and fabric
+116,35-50,Female,Suburban,Self-employed,28200.0,1,1524.0,Local/Other,64.0,5.0,3,3,3,4,510.0,10.0,4,3,1,1,0,1,0,0,0,0,0,0,1,0,0,1,0,3,No,No,4,439.0,3,36.0,Pop-up,4,Depends on the fit and fabric
+117,35-50,Male,Metro core,Employed,28200.0,5,1460.0,H&M,,4.0,5,3,4,3,,5.0,3,5,0,1,1,1,1,1,0,1,1,1,1,0,1,1,0,4,Maybe,No,6,2513.0,6,35.0,Friends,4,"Love eco-friendly fabrics, would buy immediately"
+118,25-34,Female,Metro core,Employed,17200.0,3,1068.0,H&M,73.0,3.0,5,5,3,4,76.0,10.0,3,3,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,4,No,Yes,7,2434.0,6,61.0,Facebook,3,"Nothing really, I love the minimalist idea"
+119,25-34,Male,Suburban,Employed,7200.0,1,386.0,Zara,53.0,5.0,2,2,5,4,,10.0,5,2,1,1,1,0,1,1,1,1,1,0,0,1,0,0,0,5,Maybe,Yes,10,469.0,7,53.0,Instagram,5,"Great concept, please add more basics"
+120,25-34,Male,Suburban,Employed,7300.0,4,294.0,Uniqlo,550.0,3.0,2,5,1,4,43.0,0.0,2,3,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,1,No,No,3,4.0,2,3.0,TikTok,2,"I already shop at H&M and Zara, why switch"
+121,25-34,Female,Metro core,Employed,10600.0,7,894.0,Zara,84.0,3.0,3,4,4,3,60.0,5.0,3,3,1,1,0,1,0,0,0,1,1,1,0,0,1,1,1,5,Yes,Yes,10,1690.0,8,67.0,Instagram,3,"Love eco-friendly fabrics, would buy immediately"
+122,25-34,Female,Metro core,Employed,9000.0,2,,Local/Other,68.0,5.0,3,5,4,5,79.0,0.0,3,3,1,0,1,1,0,1,1,0,0,0,0,1,1,0,0,4,No,No,8,520.0,4,43.0,Pop-up,5,"Nothing really, I love the minimalist idea"
+123,16-24,Female,Metro core,Student,1500.0,4,98.0,H&M,15.0,4.0,2,1,4,2,21.0,5.0,4,4,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,4,No,No,8,88.0,4,5.0,Instagram,5,Need more category choice
+124,25-34,Male,Suburban,Employed,9000.0,2,321.0,Zara,86.0,4.0,1,3,4,3,75.0,5.0,2,2,1,0,1,1,1,0,0,0,0,1,0,1,1,0,1,4,No,No,7,531.0,8,47.0,Friends,4,"Nothing really, I love the minimalist idea"
+125,16-24,Female,Metro core,Student,2000.0,1,,Zara,43.0,4.0,4,3,3,1,31.0,0.0,3,4,1,0,0,0,1,1,1,0,1,1,1,0,1,1,1,4,No,Yes,4,36.0,5,20.0,Search,2,"Love eco-friendly fabrics, would buy immediately"
+126,25-34,Female,Suburban,Employed,8100.0,3,472.0,Zara,79.0,4.0,4,2,2,4,83.0,5.0,2,5,1,1,1,1,1,1,0,1,0,0,1,1,1,1,0,3,No,No,3,174.0,5,34.0,Search,3,Would want to try in a pop-up first
+127,16-24,Female,Metro core,Student,2200.0,2,312.0,Zara,19.0,2.0,3,4,2,2,25.0,5.0,4,4,1,1,1,0,1,0,0,0,1,1,1,0,0,1,0,2,No,No,0,43.0,3,3.0,Friends,4,Worried the quality will not justify the price
+128,16-24,Female,Metro core,Employed,18700.0,5,838.0,Shein,65.0,2.0,2,4,2,2,46.0,0.0,3,4,1,0,1,1,1,0,1,0,0,1,1,0,1,1,0,2,No,No,0,8.0,1,4.0,Friends,4,"I already shop at H&M and Zara, why switch"
+129,16-24,Female,Metro core,Student,,1,128.0,,29.0,1.0,4,4,2,2,24.0,0.0,2,3,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,No,Yes,1,2.0,2,2.0,Search,5,Not sure the sustainable claim is genuine
+130,25-34,Female,Metro core,Employed,33500.0,3,1608.0,Shein,63.0,3.0,4,2,4,4,71.0,0.0,4,3,1,1,1,1,0,1,1,1,0,1,1,0,0,0,1,4,Maybe,Yes,10,2456.0,6,49.0,Pop-up,4,"Great concept, please add more basics"
+131,16-24,Female,Suburban,Employed,11900.0,1,1016.0,H&M,42.0,2.0,4,3,3,2,41.0,15.0,3,3,1,1,1,0,0,0,1,0,0,1,1,0,0,1,0,2,No,Yes,4,232.0,2,15.0,TikTok,2,"Only grey is too limiting, I need colour"
+132,35-50,Female,Metro core,Employed,13000.0,5,796.0,Uniqlo,46.0,5.0,1,3,1,1,41.0,0.0,2,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,No,No,0,1.0,1,1.0,Instagram,4,Worried the quality will not justify the price
+133,25-34,Female,Metro core,Employed,11000.0,3,747.0,Zara,77.0,4.0,3,4,3,4,83.0,0.0,3,4,0,1,1,1,0,1,0,1,0,1,1,0,1,1,0,3,No,No,8,573.0,5,37.0,Instagram,3,Need more category choice
+134,25-34,Female,Other,Student,28000.0,4,90.0,Uniqlo,35.0,2.0,5,3,4,1,35.0,0.0,3,4,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,2,No,No,3,23.0,3,9.0,Friends,2,"I already shop at H&M and Zara, why switch"
+135,25-34,Female,Other,Other,7300.0,4,498.0,H&M,33.0,2.0,2,3,3,5,36.0,15.0,2,4,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,No,No,2,25.0,2,4.0,TikTok,3,"I already shop at H&M and Zara, why switch"
+136,16-24,Male,Suburban,Student,6400.0,43,408.0,Local/Other,63.0,4.0,4,4,3,5,73.0,10.0,1,3,1,1,1,1,0,0,0,1,1,0,0,1,1,1,1,4,Yes,Yes,7,664.0,6,33.0,TikTok,1,"Nothing really, I love the minimalist idea"
+137,35-50,Female,Metro core,Self-employed,12900.0,5,375.0,Local/Other,71.0,2.0,3,3,2,3,53.0,5.0,2,4,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,3,No,No,7,212.0,8,42.0,Instagram,3,Depends on the fit and fabric
+138,25-34,Female,Metro core,Employed,16200.0,6,665.0,Shein,73.0,3.0,3,4,1,4,70.0,10.0,2,2,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,1,No,No,5,133.0,3,36.0,Friends,2,Worried the quality will not justify the price
+139,35-50,Female,Suburban,Student,3700.0,2,221.0,Local/Other,36.0,4.0,3,3,3,2,39.0,10.0,3,2,1,1,1,0,1,0,1,0,0,1,0,0,1,1,1,3,No,Yes,7,125.0,6,11.0,Facebook,4,Need more category choice
+140,16-24,Female,Metro core,Student,1200.0,6,50.0,H&M,15.0,3.0,1,4,4,3,10.0,0.0,4,1,1,1,1,0,0,1,0,1,0,1,0,1,1,1,0,2,No,Yes,3,21.0,3,5.0,Instagram,3,Delivery and returns need to be easy
+141,25-34,Female,Metro core,Employed,15600.0,2,1367.0,Zara,93.0,3.0,2,3,2,2,62.0,0.0,3,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,No,No,2,38.0,2,13.0,Friends,1,"I already shop at H&M and Zara, why switch"
+142,25-34,Female,Suburban,Employed,19500.0,0,1219.0,Zara,103.0,4.0,1,3,3,1,75.0,0.0,4,2,1,1,1,0,0,1,0,0,0,0,0,0,1,1,0,3,No,No,5,344.0,2,22.0,TikTok,4,Would want to try in a pop-up first
+143,35-50,Male,Metro core,Employed,10100.0,3,540.0,Local/Other,53.0,3.0,3,4,1,3,37.0,5.0,3,2,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,No,No,0,6.0,2,4.0,Friends,3,Not sure the sustainable claim is genuine
+144,25-34,Female,Metro core,Employed,11000.0,4,802.0,H&M,42.0,3.0,3,5,2,4,39.0,10.0,3,3,1,1,1,1,0,0,0,1,0,0,1,1,0,1,1,3,No,Yes,8,324.0,3,16.0,TikTok,3,Need more category choice
+145,25-34,Female,Other,Employed,5100.0,1,360.0,H&M,42.0,3.0,2,3,4,3,33.0,5.0,2,3,1,1,0,0,0,1,1,0,0,0,1,0,0,1,0,2,No,No,0,53.92349962860307,2,6.0,Friends,3,Worried the quality will not justify the price
+146,16-24,Female,Metro core,Self-employed,7900.0,2,241.0,Shein,17.0,4.0,5,3,5,2,17.0,15.0,4,2,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,4,Maybe,Yes,9,4375.400798366011,10,18.0,Pop-up,3,"Love eco-friendly fabrics, would buy immediately"
+147,16-24,Female,Metro core,Student,4000.0,4,306.0,H&M,50.0,1.0,4,4,2,3,41.0,10.0,4,5,1,0,0,0,1,1,0,1,0,0,1,1,1,0,0,3,No,No,8,77.0,3,14.0,Instagram,4,Need more category choice
+148,25-34,Female,Metro core,Employed,8900.0,0,409.0,Shein,29.0,3.0,2,3,3,4,26.0,5.0,3,3,1,1,0,1,0,0,1,0,0,1,0,0,0,1,0,2,No,Yes,5,72.0,4,5.0,Pop-up,4,"Only grey is too limiting, I need colour"
+149,25-34,Male,Metro core,Employed,6700.0,6,363.0,H&M,75.0,3.0,3,3,3,3,62.0,15.0,4,2,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,3,No,No,3,98.0,4,31.0,Search,4,Need more category choice
+150,16-24,Male,Metro core,Self-employed,15500.0,7,1163.0,Uniqlo,50.0,2.0,2,4,2,5,57.0,10.0,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,No,No,2,77.0,2,9.0,Search,3,Worried the quality will not justify the price
+151,35-50,Female,Suburban,Employed,11700.0,4,826.0,Shein,45.0,4.0,4,3,2,2,44.0,10.0,5,3,1,1,1,1,1,1,0,1,1,1,0,1,0,1,0,4,Maybe,No,10,1257.0,5,43.0,Pop-up,5,"Love eco-friendly fabrics, would buy immediately"
+152,35-50,Female,Suburban,Employed,12000.0,0,626.0,Uniqlo,96.0,5.0,5,2,4,4,120.0,0.0,3,3,1,0,1,1,1,1,0,0,0,0,1,1,0,1,1,4,No,No,6,437.0,6,43.0,Friends,2,"Love eco-friendly fabrics, would buy immediately"
+153,16-24,Female,Metro core,Employed,15300.0,1,707.0,H&M,60.0,1.0,1,3,3,3,21.0,10.0,1,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,No,No,0,2.0,1,2.0,Instagram,3,Delivery and returns need to be easy
+154,25-34,Female,Metro core,Other,3600.0,2,216.0,H&M,28.0,4.0,5,2,5,4,61.0,10.0,4,4,1,1,1,0,0,1,1,1,1,0,1,1,0,1,0,5,Maybe,Yes,9,434.0,5,18.0,Instagram,5,"Nothing really, I love the minimalist idea"
+155,16-24,Male,Suburban,Self-employed,9300.0,2,463.0,H&M,52.0,5.0,5,4,5,2,,5.0,1,5,1,1,0,0,0,0,1,1,1,0,0,0,1,1,0,4,No,Yes,6,237.0,4,24.0,Instagram,3,"Love eco-friendly fabrics, would buy immediately"
+156,25-34,Female,Metro core,Employed,11800.0,2,878.0,H&M,55.0,3.0,3,3,2,4,40.0,0.0,1,2,1,0,1,0,1,0,1,0,1,1,0,0,1,0,0,1,No,No,0,5.0,1,3.0,Friends,3,"I already shop at H&M and Zara, why switch"
+157,16-24,Female,Metro core,Student,3900.0,1,232.0,Uniqlo,44.0,3.0,5,3,4,3,58.0,10.0,5,4,1,1,1,0,0,0,0,1,0,0,1,1,0,1,0,4,No,No,8,166.0,7,41.0,Search,3,"Love eco-friendly fabrics, would buy immediately"
+158,25-34,Male,Metro core,Employed,19200.0,3,1488.0,Zara,73.0,3.0,3,3,2,3,53.0,,2,4,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,3,No,No,4,599.0,4,30.0,Instagram,3,Need more category choice
+159,25-34,Female,Suburban,Employed,8200.0,2,322.0,H&M,53.0,3.0,3,4,3,1,25.0,5.0,1,4,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,No,No,1,7.0,2,4.0,Friends,3,Worried the quality will not justify the price
+160,35-50,Female,Metro core,Student,5100.0,3,374.0,H&M,480.0,5.0,3,2,4,3,38.0,0.0,4,4,1,0,1,0,1,1,0,0,1,1,0,1,1,0,0,5,No,No,9,436.0,9,35.0,Search,3,"Great concept, please add more basics"
+161,16-24,Male,Suburban,Student,1800.0,1,,Local/Other,15.0,2.0,3,1,3,4,18.0,15.0,3,3,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,2,No,No,5,5.0,4,4.0,Instagram,2,Worried the quality will not justify the price
+162,35-50,Female,Metro core,Employed,33800.0,3,1782.0,H&M,82.0,2.0,3,3,1,2,51.0,5.0,3,3,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3,No,No,2,65.0,2,8.0,Instagram,4,Depends on the fit and fabric
+163,16-24,Female,Metro core,Student,1500.0,89,40.0,Zara,31.0,3.0,2,3,5,2,29.0,15.0,3,1,1,1,1,1,1,0,1,1,0,1,0,1,0,1,1,4,No,Yes,10,45.0,7,37.0,Instagram,3,"Love eco-friendly fabrics, would buy immediately"
+164,16-24,Female,Metro core,Student,4500.0,2,231.0,Zara,60.0,4.0,3,3,4,3,54.0,0.0,3,3,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,3,No,No,6,61.0,3,28.0,Instagram,3,Depends on the fit and fabric
+165,25-34,Male,Metro core,Employed,8200.0,4,737.0,H&M,39.0,4.0,4,2,3,2,19.0,10.0,3,4,1,1,1,1,1,0,0,0,1,1,0,0,1,1,0,3,Maybe,No,8,832.0,7,28.0,Friends,5,"Great concept, please add more basics"
+166,25-34,Female,Metro core,Employed,27200.0,1,1797.0,Local/Other,71.0,2.0,2,2,3,4,65.0,0.0,5,4,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,4,No,No,9,1976.0,4,44.0,Facebook,4,"Nothing really, I love the minimalist idea"
+167,35-50,Female,Metro core,Employed,19400.0,2,1254.0,H&M,66.0,3.0,4,2,3,3,84.0,10.0,4,3,1,1,1,0,0,0,0,0,1,1,0,0,1,1,1,3,Yes,Yes,7,1032.0,6,56.0,Friends,3,Would want to try in a pop-up first
+168,35-50,Female,Metro core,Employed,9400.0,3,584.0,Shein,45.0,4.0,5,3,3,5,25.0,5.0,3,5,1,1,1,1,1,0,1,1,1,0,1,1,0,1,0,5,Maybe,Yes,10,1160.0,5,46.0,Instagram,2,"Nothing really, I love the minimalist idea"
+169,16-24,Female,Metro core,Student,2000.0,6,,Uniqlo,25.0,3.0,4,1,3,5,22.0,5.0,4,3,1,1,0,0,0,1,0,0,1,1,1,1,0,0,1,5,Yes,No,10,,6,17.0,Friends,3,"Nothing really, I love the minimalist idea"
+170,35-50,Male,Metro core,Other,11500.0,1,712.0,Shein,,2.0,2,3,3,2,22.0,0.0,2,2,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,3,No,Yes,3,125.0,4,19.0,Instagram,2,Depends on the fit and fabric
+171,16-24,Female,Metro core,Student,4000.0,3,392.0,Shein,15.0,2.0,4,2,3,4,12.0,,3,3,1,1,1,1,0,1,1,0,0,0,0,1,0,1,0,3,No,Yes,5,437.0,6,5.0,TikTok,5,Need more category choice
+172,25-34,Male,Other,Employed,10700.0,1,867.0,Shein,27.0,4.0,4,3,3,2,41.0,0.0,3,3,1,0,1,1,1,0,0,1,1,0,1,0,1,1,0,3,No,No,7,574.0,6,18.0,Instagram,5,Would want to try in a pop-up first
+173,16-24,Male,Metro core,Employed,11200.0,2,892.0,Zara,90.0,2.0,3,4,4,4,88.0,5.0,5,3,1,0,1,1,1,1,1,1,0,1,0,1,0,0,0,1,No,No,6,439.0,7,61.0,Friends,4,Delivery and returns need to be easy
+174,35-50,Male,Suburban,Self-employed,26600.0,2,1343.0,Zara,94.0,2.0,2,3,3,3,64.0,5.0,3,3,0,1,1,1,1,1,0,1,0,0,0,1,0,1,0,3,No,No,8,474.0,4,47.0,Friends,4,Would want to try in a pop-up first
+175,16-24,Female,Other,Student,2700.0,4,295.0,Shein,150.0,4.0,2,2,2,1,16.0,10.0,1,3,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,No,No,0,3.0,1,1.0,Instagram,3,Too expensive compared to Shein
+176,16-24,Male,Metro core,Student,1400.0,7,87.0,Uniqlo,15.0,4.0,3,3,4,2,11.0,5.0,3,2,1,0,1,0,0,0,0,1,0,0,1,1,1,1,0,4,No,Yes,7,57.0,5,8.0,Facebook,3,"Nothing really, I love the minimalist idea"
+177,25-34,Male,Suburban,Employed,7600.0,2,346.0,Zara,56.0,2.0,3,3,2,3,43.0,10.0,3,3,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,4,Maybe,No,8,385.0,5,26.0,Facebook,1,"Great concept, please add more basics"
+178,35-50,Female,Suburban,Self-employed,21000.0,2,1871.0,H&M,98.0,5.0,2,3,3,4,118.0,0.0,3,1,0,1,1,0,1,0,1,1,0,1,0,0,1,1,0,2,No,No,3,71.0,2,12.0,Pop-up,3,"Only grey is too limiting, I need colour"
+179,35-50,Male,Suburban,Employed,25700.0,1,940.0,H&M,78.0,4.0,4,1,5,4,128.0,5.0,4,4,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,5,Maybe,Yes,10,2015.0,6,55.0,Search,2,"Love eco-friendly fabrics, would buy immediately"
+180,35-50,Male,Metro core,Self-employed,39100.0,2,1642.0,Zara,126.0,5.0,3,5,3,4,181.0,10.0,3,3,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,2,No,Yes,5,2292.0,5,80.0,Instagram,4,Too expensive compared to Shein
+181,35-50,Female,Metro core,Student,4800.0,3,221.0,H&M,15.0,1.0,2,2,2,2,10.0,5.0,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,No,No,1,1.0,1,0.0,Friends,2,Not sure the sustainable claim is genuine
+182,35-50,Male,Metro core,Self-employed,21500.0,3,1025.0,Zara,87.0,3.0,1,4,2,4,68.0,0.0,2,2,1,1,1,1,1,0,0,0,1,0,0,0,1,1,0,1,No,No,1,19.0,2,8.0,TikTok,3,"Only grey is too limiting, I need colour"
+183,25-34,Female,Metro core,Employed,15400.0,1,1721.0,H&M,71.0,2.0,4,2,5,4,110.0,10.0,4,3,0,1,1,1,0,0,0,0,1,1,1,1,1,1,0,5,Maybe,Yes,10,3895.0,5,76.0,Pop-up,5,"Love eco-friendly fabrics, would buy immediately"
+184,16-24,Male,Other,Student,,3,157.0,Uniqlo,45.0,3.0,5,3,4,3,45.0,5.0,4,5,1,1,1,1,1,0,1,0,0,0,1,0,0,0,0,4,No,No,9,206.0,5,31.0,Instagram,2,"Nothing really, I love the minimalist idea"
+185,35-50,Prefer not to say,Other,Student,3200.0,3,207.0,Shein,15.0,2.0,2,3,3,3,20.0,0.0,3,2,1,1,0,1,0,0,1,1,0,1,0,0,0,1,0,2,No,No,5,198.04877147603383,2,4.0,Friends,4,"I already shop at H&M and Zara, why switch"
+186,25-34,Female,Metro core,Employed,7600.0,2,725.0,Uniqlo,70.0,,3,4,2,5,54.0,5.0,2,3,0,0,1,0,1,0,0,1,0,1,0,1,1,1,0,3,No,No,2,57.0,2,16.0,Search,3,Delivery and returns need to be easy
+187,25-34,Male,Suburban,Employed,6300.0,0,444.0,Uniqlo,71.0,4.0,4,2,3,3,86.0,5.0,4,3,1,1,1,1,1,1,1,0,1,0,0,1,1,0,1,4,Maybe,Yes,10,976.0,11,90.0,Facebook,3,"Great concept, please add more basics"
+188,16-24,Female,Metro core,Employed,12800.0,5,1138.0,H&M,57.0,4.0,3,3,3,2,56.0,0.0,4,2,1,1,1,1,0,0,0,1,0,1,1,1,0,1,0,1,No,No,2,291.0,3,20.0,Pop-up,4,Worried the quality will not justify the price
+189,35-50,Male,Other,Employed,16100.0,2,560.0,H&M,69.0,3.0,3,3,3,1,51.0,0.0,3,3,0,0,1,0,0,1,0,0,0,0,1,1,0,1,0,1,No,No,2,66.0,2,19.0,Instagram,3,Delivery and returns need to be easy
+190,16-24,Male,Metro core,Student,3400.0,7,232.0,Uniqlo,38.0,5.0,4,3,2,2,62.0,5.0,2,4,1,1,1,0,0,1,1,0,0,0,1,1,0,1,0,2,No,Yes,4,20.0,2,12.0,Search,3,Worried the quality will not justify the price
+191,35-50,Female,Other,Employed,19000.0,0,503.0,Shein,36.0,1.0,3,1,1,3,30.0,5.0,4,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,No,No,2,21.0,3,8.0,Pop-up,2,Not sure the sustainable claim is genuine
+192,16-24,Female,Suburban,Employed,12300.0,1,373.0,Shein,38.0,2.0,2,3,3,3,280.0,10.0,4,3,1,0,0,1,0,1,1,1,0,0,1,1,0,1,0,2,No,No,4,133.0,6,9.0,TikTok,4,"Only grey is too limiting, I need colour"
+193,16-24,Female,Metro core,Student,3200.0,1,385.0,Shein,24.0,4.0,4,4,4,2,19.0,5.0,3,3,1,1,0,1,0,0,1,0,1,1,1,1,0,1,0,4,Maybe,Yes,8,417.0,6,12.0,Instagram,2,"Love eco-friendly fabrics, would buy immediately"
+194,35-50,Female,Metro core,Employed,14600.0,4,471.0,Uniqlo,88.0,5.0,3,4,3,4,103.0,10.0,2,4,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,3,No,No,6,81.0,3,31.0,Friends,2,Need more category choice
+195,16-24,Female,Suburban,Student,3000.0,2,208.0,Shein,15.0,4.0,2,3,1,3,17.0,,3,2,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,1,No,No,0,4.0,2,1.0,Friends,2,Not sure the sustainable claim is genuine
+196,16-24,Female,Metro core,Employed,7900.0,0,640.0,Shein,33.0,3.0,5,3,3,3,42.0,5.0,3,3,1,1,1,1,0,1,0,1,1,0,1,1,0,1,0,4,Yes,Yes,8,729.0,11,36.0,Instagram,3,"Great concept, please add more basics"
+197,25-34,Female,Metro core,Employed,13000.0,0,425.0,Shein,55.0,2.0,5,2,3,4,45.0,0.0,3,4,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,2,No,No,7,178.0,4,32.0,Search,3,"I already shop at H&M and Zara, why switch"
+198,35-50,Female,Other,Employed,20100.0,2,1125.0,H&M,93.0,2.0,1,3,3,5,82.0,0.0,3,3,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,2,Yes,No,4,470.0,4,29.0,Pop-up,2,Delivery and returns need to be easy
+199,16-24,Male,Metro core,Employed,8100.0,2,638.0,H&M,46.0,4.0,3,3,5,2,42.0,0.0,4,4,1,1,0,1,1,0,1,0,0,1,1,0,0,1,0,3,No,No,9,1028.0,6,20.0,Search,4,Would want to try in a pop-up first
+200,16-24,Male,Metro core,Student,2600.0,6,199.0,Zara,55.0,2.0,3,2,2,4,47.0,0.0,3,3,0,1,1,1,1,1,0,1,0,0,1,0,0,1,0,3,No,No,5,109.0,3,22.0,TikTok,3,Need more category choice
+201,35-50,Male,Metro core,Employed,11200.0,1,444.0,Uniqlo,92.0,3.0,2,3,3,2,90.0,10.0,4,3,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,No,No,2,17.0,3,12.0,Facebook,3,"Only grey is too limiting, I need colour"
+202,35-50,Female,Metro core,Employed,11700.0,1,1197.0,Shein,54.0,2.0,3,3,2,2,54.0,10.0,4,3,0,1,1,1,0,0,0,1,0,0,1,0,1,1,0,2,No,Yes,3,37.0,2,7.0,TikTok,4,Delivery and returns need to be easy
+203,25-34,Male,Other,Employed,6600.0,3,573.0,Zara,,3.0,1,5,2,2,39.0,15.0,2,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,No,No,0,2.0,1,1.0,TikTok,3,Delivery and returns need to be easy
+204,16-24,Male,Metro core,Employed,19400.0,5,1404.0,Zara,77.0,4.0,5,3,5,5,146.0,5.0,5,3,1,1,0,0,1,1,0,0,1,1,1,1,0,1,0,5,Yes,Yes,10,1693.0,5,77.0,Instagram,3,"Nothing really, I love the minimalist idea"
+205,16-24,Female,Metro core,Student,4000.0,2,245.0,Shein,15.0,2.0,4,5,3,3,10.0,15.0,2,2,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,2,No,No,3,35.0,2,5.0,Instagram,3,"I already shop at H&M and Zara, why switch"
+206,16-24,Female,Metro core,Employed,14000.0,2,1206.0,H&M,72.0,3.0,3,3,3,3,69.0,15.0,4,5,1,0,1,1,1,1,1,0,0,0,1,0,0,1,0,3,Maybe,No,7,1303.0,6,46.0,Friends,4,Would want to try in a pop-up first
+207,16-24,Male,Other,Student,6100.0,0,414.0,Shein,15.0,3.0,3,3,3,3,13.0,5.0,3,3,0,1,1,1,0,0,0,1,0,0,1,1,0,0,0,2,No,No,6,26.0,2,3.0,Instagram,3,"Only grey is too limiting, I need colour"
+208,25-34,Female,Metro core,Employed,10100.0,3,400.0,H&M,68.0,1.0,2,3,3,3,68.0,10.0,4,4,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,No,No,2,18.0,3,12.0,Instagram,1,"I already shop at H&M and Zara, why switch"
+209,16-24,Female,Suburban,Student,9800.0,2,,Zara,91.0,1.0,3,3,3,3,82.0,10.0,4,2,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0,1,No,Yes,0,22.0,2,14.0,TikTok,2,Worried the quality will not justify the price
+210,25-34,Prefer not to say,Suburban,Employed,9900.0,0,1054.0,Zara,81.0,5.0,3,2,5,4,74.0,5.0,5,4,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,5,Maybe,Yes,10,1836.0,8,66.0,Pop-up,3,"Great concept, please add more basics"
+211,25-34,Female,Suburban,Self-employed,15700.0,2,,H&M,64.0,2.0,2,1,4,3,56.0,5.0,5,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,1,4,Yes,Yes,9,1806.0,7,53.0,Pop-up,4,"Nothing really, I love the minimalist idea"
+212,25-34,Female,Other,Self-employed,11700.0,3,801.0,H&M,53.0,4.0,4,3,5,4,77.0,5.0,3,3,1,0,1,1,0,0,0,0,0,0,1,1,1,0,0,5,No,No,10,1358.0,7,38.0,Friends,3,"Love eco-friendly fabrics, would buy immediately"
+213,16-24,Prefer not to say,Suburban,Student,3000.0,1,250.0,H&M,29.0,3.0,5,2,3,2,26.0,0.0,4,5,1,1,1,1,0,0,0,0,0,1,0,1,1,1,1,5,Maybe,Yes,7,256.0,6,12.0,Instagram,3,"Love eco-friendly fabrics, would buy immediately"
+214,35-50,Male,Other,Employed,21600.0,1,1680.0,Zara,93.0,3.0,3,2,3,3,83.0,5.0,3,4,1,1,1,1,1,0,0,0,0,0,1,1,1,1,0,4,Yes,Yes,9,2250.0,7,61.0,Friends,4,"Nothing really, I love the minimalist idea"
+215,25-34,Female,Metro core,Employed,10500.0,4,759.0,Zara,81.0,3.0,2,2,3,3,59.0,0.0,3,2,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,2,No,Yes,7,128.0,3,20.0,Friends,3,Worried the quality will not justify the price
+216,25-34,Male,Suburban,Employed,24500.0,2,845.0,Shein,75.0,1.0,4,3,2,5,59.0,0.0,1,1,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,1,No,No,0,,1,4.0,TikTok,4,"Only grey is too limiting, I need colour"
+217,16-24,Male,Metro core,Student,2800.0,3,69.0,H&M,39.0,3.0,3,5,4,2,23.0,5.0,4,2,0,1,0,0,1,0,0,0,1,0,1,1,1,1,0,3,Maybe,Yes,7,35.0,4,16.0,Instagram,5,Would want to try in a pop-up first
+218,16-24,Male,Metro core,Student,2800.0,4,129.0,Zara,17.0,3.0,1,4,3,3,,0.0,2,3,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,No,No,3,2.0,2,1.0,Search,1,"I already shop at H&M and Zara, why switch"
+219,35-50,Male,Suburban,Self-employed,12600.0,2,1014.0,H&M,71.0,3.0,3,1,5,3,67.0,10.0,5,3,0,1,0,1,0,1,1,0,0,1,0,0,0,1,0,4,No,No,8,1429.0,6,62.0,Instagram,3,"Great concept, please add more basics"
+220,25-34,Female,Other,Self-employed,16900.0,0,985.0,Local/Other,71.0,3.0,4,4,3,4,68.0,10.0,1,3,1,1,1,0,1,1,1,0,0,1,1,1,1,0,0,2,No,No,2,55.0,3,14.0,TikTok,2,"Only grey is too limiting, I need colour"
+221,16-24,Female,Suburban,Employed,10400.0,1,778.0,Shein,38.0,2.0,5,2,4,3,36.0,5.0,4,4,1,1,1,1,0,1,0,1,0,0,1,0,1,1,0,3,Maybe,Yes,5,,4,16.0,Instagram,3,Need more category choice
+222,25-34,Male,Metro core,Other,4600.0,3,230.0,Local/Other,50.0,4.0,3,3,4,3,51.0,5.0,3,2,1,1,1,1,0,1,0,1,0,1,0,0,0,1,1,4,No,No,5,154.0,6,18.0,Search,3,"Love eco-friendly fabrics, would buy immediately"
+223,25-34,Female,Metro core,Employed,7800.0,0,347.0,Local/Other,68.0,2.0,3,3,3,4,53.0,0.0,2,3,0,0,1,0,0,1,0,1,1,0,0,0,1,1,0,3,No,No,3,155.0,6,30.0,Friends,3,Need more category choice
+224,35-50,Male,Metro core,Self-employed,,2,5691.0,Zara,149.0,3.0,1,3,3,4,97.0,5.0,3,2,1,1,0,0,0,0,0,0,1,0,1,1,0,1,0,3,No,No,7,3599.0,4,102.0,Search,2,Would want to try in a pop-up first
+225,16-24,Male,Metro core,Student,2200.0,3,151.0,Shein,15.0,4.0,4,2,4,3,10.0,5.0,3,4,1,1,1,1,0,1,0,0,1,0,1,1,1,1,0,5,Yes,Yes,10,224.0,6,16.0,Pop-up,3,"Love eco-friendly fabrics, would buy immediately"
+226,35-50,Female,Metro core,Employed,7700.0,1,315.0,H&M,,4.0,3,3,2,3,45.0,5.0,2,3,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,No,No,4,61.0,3,11.0,Pop-up,1,"Only grey is too limiting, I need colour"
+227,16-24,Male,Metro core,Employed,8000.0,1,346.0,Local/Other,50.0,5.0,5,4,4,3,510.0,5.0,3,2,1,0,1,0,0,0,0,0,0,0,1,1,1,1,0,4,No,Yes,8,320.0,6,52.0,Instagram,4,"Great concept, please add more basics"
+228,25-34,Female,Metro core,Employed,10700.0,4,415.0,Zara,49.0,4.0,3,2,4,1,39.0,0.0,5,3,1,1,0,1,0,0,0,0,0,1,1,1,1,1,0,2,No,Yes,4,48.0,3,9.0,Facebook,2,Delivery and returns need to be easy
+229,25-34,Male,Suburban,Employed,14100.0,2,544.0,Zara,103.0,5.0,2,2,2,2,66.0,0.0,2,3,1,0,1,1,1,0,0,1,0,0,0,1,0,1,0,2,No,No,2,74.0,3,22.0,Pop-up,3,Not sure the sustainable claim is genuine
+230,16-24,Female,Metro core,Student,3200.0,2,175.0,Local/Other,22.0,3.0,5,3,5,2,28.0,10.0,3,4,1,1,1,1,0,1,1,1,0,0,1,1,1,1,0,3,No,Yes,5,44.0,3,5.0,Search,5,Need more category choice
+231,16-24,Male,Other,Student,3400.0,3,211.0,Shein,15.0,3.0,3,2,3,2,,5.0,4,3,1,1,1,0,0,0,1,1,0,1,0,1,0,1,0,2,No,No,3,8.0,3,1.0,Pop-up,5,"Only grey is too limiting, I need colour"
+232,25-34,Male,Metro core,Employed,8200.0,3,348.0,Local/Other,65.0,2.0,3,2,3,3,53.0,0.0,4,4,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2,No,No,3,129.0,3,24.0,Search,1,"I already shop at H&M and Zara, why switch"
+233,35-50,Female,Metro core,Self-employed,22000.0,69,693.0,H&M,66.0,5.0,1,3,4,2,64.0,5.0,5,2,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,3,No,Yes,9,594.0,5,37.0,Friends,2,Would want to try in a pop-up first
+234,25-34,Male,Metro core,Employed,7400.0,6,313.0,H&M,38.0,5.0,4,4,3,2,31.0,10.0,2,3,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,2,No,Yes,3,47.0,4,9.0,Friends,2,"I already shop at H&M and Zara, why switch"
+235,35-50,Male,Metro core,Employed,11200.0,1,606.0,Zara,99.0,3.0,2,2,3,2,78.0,10.0,3,2,0,1,0,1,0,0,1,1,1,0,1,1,1,1,1,3,Yes,No,5,328.0,6,41.0,Friends,5,Would want to try in a pop-up first
+236,35-50,Male,Other,Employed,9800.0,3,7410.0,Zara,76.0,4.0,3,3,4,5,116.0,5.0,4,4,1,0,1,0,1,0,1,0,1,0,1,0,1,1,0,4,Yes,Yes,10,1122.0,10,44.0,Friends,2,"Love eco-friendly fabrics, would buy immediately"
+237,25-34,Male,Metro core,Employed,6400.0,2,,Zara,51.0,3.0,3,2,2,1,25.0,0.0,5,3,0,0,1,1,0,1,0,1,0,1,1,1,1,1,0,1,No,No,4,25.0,4,8.0,Instagram,4,Delivery and returns need to be easy
+238,35-50,Prefer not to say,Metro core,Employed,240000.0,3,818.0,Zara,97.0,4.0,4,3,4,4,133.0,0.0,3,3,1,0,0,0,0,1,0,0,1,0,1,1,0,1,0,5,Yes,Yes,10,957.0,8,102.0,TikTok,3,"Nothing really, I love the minimalist idea"
+239,16-24,Female,Other,Student,3400.0,3,259.0,Shein,23.0,3.0,3,3,4,3,10.0,5.0,3,2,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,5,Maybe,Yes,10,,6,27.0,Instagram,3,"Great concept, please add more basics"
+240,16-24,Female,Other,Employed,17100.0,3,1242.0,H&M,91.0,3.0,5,3,5,4,130.0,15.0,4,5,1,1,1,1,1,0,0,0,0,1,1,1,1,0,1,4,No,Yes,10,2868.0,5,118.0,Instagram,1,"Great concept, please add more basics"
+241,35-50,Female,Metro core,Employed,15100.0,5,1319.0,Uniqlo,59.0,5.0,4,3,4,4,50.0,5.0,3,3,0,1,1,1,0,0,1,0,1,1,1,1,0,1,0,4,No,No,8,1464.0,5,45.0,TikTok,3,"Nothing really, I love the minimalist idea"
+242,35-50,Male,Metro core,Employed,21100.0,3,1581.0,Shein,86.0,3.0,3,3,3,3,102.0,5.0,3,3,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,1,No,No,0,,1,4.0,Friends,3,Delivery and returns need to be easy
+243,16-24,Male,Metro core,Employed,5000.0,5,310.0,Uniqlo,62.0,5.0,4,2,3,1,55.0,0.0,3,5,0,0,1,0,0,1,0,0,1,0,0,0,1,1,0,2,No,Yes,4,21.0,2,11.0,Facebook,3,Delivery and returns need to be easy
+244,25-34,Female,Metro core,Self-employed,20600.0,2,9460.0,Zara,92.0,3.0,3,3,4,3,115.0,5.0,4,4,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,4,Yes,Yes,6,562.0,3,50.0,Friends,2,"Love eco-friendly fabrics, would buy immediately"
+245,25-34,Female,Metro core,Employed,11900.0,3,848.0,H&M,48.0,4.0,4,4,3,2,54.0,5.0,1,5,1,1,0,1,1,0,0,1,0,0,1,1,0,1,0,2,No,No,1,28.0,2,5.0,Pop-up,1,"I already shop at H&M and Zara, why switch"
+246,35-50,Male,Metro core,Self-employed,25100.0,3,816.0,H&M,104.0,2.0,4,2,2,3,94.0,0.0,4,3,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,2,No,No,3,105.0,3,26.0,Facebook,2,Too expensive compared to Shein
+247,25-34,Female,Other,Employed,131000.0,2,1075.0,Shein,54.0,3.0,2,3,4,1,29.0,5.0,3,3,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,2,No,Yes,2,246.0,3,27.0,Friends,4,Delivery and returns need to be easy
+248,25-34,Male,Metro core,Self-employed,9000.0,5,766.0,Zara,48.0,3.0,1,3,3,3,25.0,0.0,3,3,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,No,Yes,1,7.0,2,3.0,Friends,2,Too expensive compared to Shein
+249,25-34,Female,Suburban,Employed,5600.0,0,428.0,H&M,40.0,1.0,4,4,3,4,45.0,15.0,4,3,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,No,No,3,18.0,2,10.0,Instagram,3,"Only grey is too limiting, I need colour"
+250,25-34,Male,Metro core,Self-employed,10200.0,2,497.0,Local/Other,108.0,3.0,3,2,4,1,76.0,0.0,4,5,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,3,Maybe,No,2,123.0,5,28.0,Friends,2,Depends on the fit and fabric
+251,25-34,Female,Suburban,Other,7700.0,2,538.0,Uniqlo,61.0,3.0,3,3,3,3,52.0,10.0,3,3,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,3,No,Yes,6,162.0,6,21.0,Pop-up,4,Depends on the fit and fabric
+252,35-50,Female,Metro core,Employed,20300.0,7,829.0,Shein,49.0,3.0,4,3,5,4,51.0,10.0,4,4,0,1,0,1,1,1,1,1,0,1,0,1,1,1,0,4,Yes,No,9,786.0,13,37.0,TikTok,3,"Love eco-friendly fabrics, would buy immediately"
+253,25-34,Male,Suburban,Self-employed,7600.0,2,512.0,,49.0,3.0,3,3,3,3,51.0,5.0,3,3,1,0,0,1,1,1,0,1,1,1,0,0,1,1,0,2,No,Yes,3,74.0,3,9.0,Search,3,Delivery and returns need to be easy
+254,16-24,Male,Other,Employed,7100.0,3,441.0,Local/Other,77.0,3.0,4,2,4,4,86.0,5.0,4,4,1,1,1,1,1,1,0,0,1,1,1,1,0,1,0,3,No,No,6,812.0,5,56.0,Instagram,4,Need more category choice
+255,16-24,Female,Metro core,Student,1800.0,3,192.0,H&M,22.0,,3,3,4,2,29.0,5.0,4,3,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,2,No,No,2,21.0,2,6.0,TikTok,4,"Only grey is too limiting, I need colour"
+256,35-50,Female,Metro core,Self-employed,16100.0,0,1057.0,H&M,96.0,3.0,2,4,4,2,61.0,0.0,4,4,0,0,0,0,1,0,1,1,1,1,0,1,0,1,0,3,Yes,No,3,219.0,4,43.0,Search,3,Would want to try in a pop-up first
+257,35-50,Male,Metro core,Employed,8000.0,0,376.0,Local/Other,58.0,4.0,4,2,5,3,60.0,5.0,3,2,1,1,0,1,0,0,0,0,1,0,1,0,0,1,1,4,Maybe,No,7,482.0,5,42.0,Pop-up,2,"Great concept, please add more basics"
+258,16-24,Male,Metro core,Student,1300.0,3,40.0,Local/Other,18.0,2.0,4,3,4,2,23.0,0.0,2,3,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,2,No,Yes,6,5.0,4,3.0,Facebook,4,Too expensive compared to Shein
+259,16-24,Female,Other,Student,1700.0,3,126.0,Uniqlo,15.0,2.0,1,5,2,2,10.0,0.0,1,2,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,2,No,No,0,,1,1.0,Facebook,2,"Only grey is too limiting, I need colour"
+260,25-34,Female,Metro core,Employed,11400.0,1,779.0,H&M,67.0,3.0,4,4,3,2,53.0,15.0,2,4,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,2,No,Yes,7,164.0,4,25.0,Instagram,2,Too expensive compared to Shein
+261,16-24,Male,Suburban,Self-employed,8200.0,0,638.0,Zara,71.0,3.0,5,1,3,4,103.0,5.0,3,4,1,1,1,1,1,0,1,0,0,1,1,1,0,1,1,4,Yes,Yes,9,1219.0,5,48.0,Friends,5,"Great concept, please add more basics"
+262,35-50,Male,Metro core,Employed,14100.0,5,1135.0,Shein,70.0,3.0,3,2,4,3,100.0,5.0,3,3,1,0,0,0,0,1,1,0,0,0,0,1,1,1,0,2,No,No,6,576.0,3,29.0,Friends,4,Not sure the sustainable claim is genuine
+263,16-24,Male,Metro core,Student,4000.0,3,219.0,Shein,16.0,5.0,4,3,5,3,14.0,5.0,3,4,1,1,1,0,0,0,1,1,0,1,1,0,0,1,0,4,Maybe,Yes,7,305.0,6,9.0,Instagram,5,"Nothing really, I love the minimalist idea"
+264,16-24,Male,Metro core,Student,1400.0,4,127.0,Zara,15.0,2.0,2,3,3,4,17.0,5.0,4,2,1,1,1,0,0,0,0,0,1,1,0,0,1,0,0,4,Maybe,No,7,158.0,8,8.0,Instagram,3,"Nothing really, I love the minimalist idea"
+265,35-50,Female,Suburban,Employed,13500.0,2,11330.0,H&M,71.0,4.0,5,3,4,2,98.0,5.0,3,5,1,1,1,1,0,1,1,0,1,1,1,0,0,0,0,5,Maybe,Yes,9,1731.0,5,65.0,Search,2,"Love eco-friendly fabrics, would buy immediately"
+266,16-24,Male,Suburban,Self-employed,22200.0,2,803.0,Uniqlo,67.0,,3,4,4,4,54.0,5.0,2,2,1,1,0,0,1,0,1,1,0,1,1,1,0,0,0,2,No,No,4,89.0,4,20.0,Instagram,4,Worried the quality will not justify the price
+267,16-24,Male,Metro core,Student,2100.0,3,179.0,Shein,15.0,2.0,4,3,1,4,25.0,5.0,2,3,1,1,1,0,1,1,0,1,0,0,1,0,1,1,0,2,No,No,2,6.0,2,2.0,Search,3,"Only grey is too limiting, I need colour"
+268,16-24,Male,Metro core,Other,4600.0,1,280.0,Zara,62.0,3.0,2,3,2,2,41.0,5.0,4,3,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0,2,No,No,6,159.0,3,19.0,Instagram,5,Too expensive compared to Shein
+269,16-24,Female,Suburban,Student,4200.0,6,144.0,Uniqlo,37.0,3.0,3,3,2,4,40.0,10.0,2,5,1,1,0,0,0,0,1,0,1,1,0,1,1,0,1,3,No,Yes,7,108.0,6,14.0,TikTok,4,Depends on the fit and fabric
+270,16-24,Female,Metro core,Student,2200.0,5,55.0,Local/Other,15.0,4.0,3,4,3,3,10.0,5.0,3,3,0,1,0,0,0,0,0,1,0,1,1,0,0,1,0,3,No,No,5,31.0,5,10.0,TikTok,3,Need more category choice
+271,16-24,Male,Other,Employed,18100.0,1,700.0,H&M,91.0,2.0,2,2,1,2,64.0,5.0,4,3,1,1,1,0,0,0,1,0,0,1,1,0,0,1,1,2,No,No,2,58.0,3,21.0,Facebook,3,"I already shop at H&M and Zara, why switch"
+272,16-24,Female,Metro core,Student,3000.0,3,1230.0,Uniqlo,53.0,3.0,4,3,3,3,,10.0,4,4,1,0,1,0,0,1,0,0,0,1,1,0,0,0,0,2,No,Yes,3,19.0,3,9.0,TikTok,4,Worried the quality will not justify the price
+273,16-24,Prefer not to say,Metro core,Student,2100.0,6,40.0,Shein,15.0,1.0,5,2,3,2,25.0,5.0,4,2,0,1,1,0,0,0,0,0,0,1,0,0,1,1,0,2,No,No,6,7.0,5,4.0,TikTok,2,"I already shop at H&M and Zara, why switch"
+274,25-34,Female,Metro core,Employed,13700.0,2,623.0,Uniqlo,107.0,3.0,4,4,3,1,98.0,10.0,2,2,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,No,No,1,18.0,2,12.0,Friends,1,Worried the quality will not justify the price
+275,25-34,Male,Metro core,Employed,12700.0,5,1130.0,Shein,53.0,2.0,3,3,3,2,49.0,5.0,4,3,1,0,1,1,0,1,0,0,1,1,0,0,1,0,0,3,No,Yes,5,144.0,3,14.0,Pop-up,4,Need more category choice
+276,25-34,Male,Metro core,Employed,17400.0,1,1042.0,Uniqlo,90.0,4.0,3,2,3,2,73.0,,2,2,1,0,1,1,0,0,0,0,1,0,1,0,1,0,0,4,Yes,Yes,7,15717.077735844092,4,68.0,Facebook,3,"Great concept, please add more basics"
+277,16-24,Female,Metro core,Other,4700.0,3,213.0,Uniqlo,50.0,4.0,2,3,3,2,47.0,5.0,2,2,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,3,No,No,5,25.0,3,13.0,TikTok,1,Need more category choice
+278,25-34,Female,Other,Self-employed,14300.0,3,871.0,H&M,52.0,4.0,4,3,4,4,63.0,5.0,5,4,1,1,1,0,1,0,1,0,1,1,0,1,0,1,1,4,Yes,Yes,5,885.0,5,36.0,Facebook,1,"Nothing really, I love the minimalist idea"
+279,35-50,Male,Metro core,Employed,14400.0,3,699.0,Shein,64.0,3.0,4,4,3,5,71.0,5.0,3,4,0,0,1,0,0,0,0,1,0,0,1,1,1,1,0,3,No,No,4,121.0,3,13.0,Facebook,3,Depends on the fit and fabric
+280,35-50,Male,Metro core,Employed,20400.0,2,862.0,H&M,45.0,4.0,4,5,3,4,51.0,5.0,2,3,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,4,Yes,No,7,1396.0,8,26.0,TikTok,2,"Great concept, please add more basics"
+281,16-24,Female,Metro core,Student,1600.0,3,110.0,H&M,15.0,3.0,5,4,3,4,28.0,5.0,1,3,1,1,1,1,0,1,1,1,0,1,1,0,1,1,0,3,No,Yes,7,53.0,8,7.0,Instagram,4,Would want to try in a pop-up first
+282,16-24,Male,Metro core,Student,4000.0,2,182.0,Uniqlo,42.0,3.0,4,3,3,3,30.0,10.0,2,4,1,1,1,0,1,0,0,1,1,0,1,1,1,1,0,4,No,No,6,110.0,5,17.0,Friends,3,"Love eco-friendly fabrics, would buy immediately"
+283,16-24,Male,Metro core,Employed,13600.0,1,853.0,Uniqlo,66.0,1.0,4,3,4,3,44.0,10.0,3,4,1,1,1,1,0,0,0,1,0,0,1,0,0,1,1,3,No,No,3,259.0,3,20.0,Search,3,Need more category choice
+284,16-24,Female,Metro core,Student,1400.0,0,88.0,Local/Other,15.0,2.0,4,2,4,2,10.0,15.0,4,3,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,3,No,Yes,7,48.0,5,9.0,Instagram,3,Depends on the fit and fabric
+285,25-34,Female,Suburban,Employed,18900.0,1,968.0,Shein,85.0,1.0,5,5,2,5,131.0,5.0,1,4,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,No,No,1,18.0,1,4.0,Instagram,3,"I already shop at H&M and Zara, why switch"
+286,25-34,Female,Metro core,Employed,30100.0,4,1668.0,Shein,88.0,3.0,4,3,4,2,99.0,10.0,3,3,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,3,No,No,6,1308.0,4,35.0,Search,3,Need more category choice
+287,16-24,Female,Other,Student,3900.0,3,425.0,Zara,34.0,4.0,5,3,3,5,47.0,0.0,5,4,1,1,1,0,0,0,1,0,0,1,1,1,0,1,0,4,No,Yes,8,871.0,6,22.0,TikTok,3,"Great concept, please add more basics"
+288,25-34,Female,Metro core,Employed,20900.0,2,1102.0,Zara,88.0,4.0,3,4,4,4,79.0,10.0,3,4,1,1,1,1,1,0,0,0,1,0,0,1,0,1,1,4,Yes,Yes,7,8993.610706042931,7,74.0,Facebook,3,"Great concept, please add more basics"
+289,25-34,Female,Suburban,Employed,11400.0,1,753.0,Local/Other,45.0,1.0,4,2,2,2,15.0,0.0,3,4,1,1,1,0,1,1,1,0,0,0,1,0,0,1,0,2,No,No,3,18.0,2,6.0,Friends,4,Not sure the sustainable claim is genuine
+290,16-24,Male,Metro core,Student,1200.0,55,85.0,Zara,20.0,2.0,5,4,4,4,10.0,0.0,2,5,1,1,0,0,1,0,1,1,0,0,1,0,0,1,0,1,No,No,0,1.0,2,1.0,TikTok,4,Worried the quality will not justify the price
+291,35-50,Female,Metro core,Self-employed,,1,611.0,Shein,29.0,4.0,5,3,4,5,62.0,,2,4,1,1,1,1,0,0,1,1,1,1,0,0,1,1,0,4,Yes,Yes,10,1687.0,6,23.0,Friends,2,"Nothing really, I love the minimalist idea"
+292,16-24,Male,Suburban,Employed,12300.0,2,949.0,Uniqlo,45.0,5.0,5,3,5,5,53.0,5.0,3,3,1,1,1,0,1,1,0,0,0,0,1,1,1,0,0,4,Yes,No,10,1380.0,6,34.0,Search,3,"Great concept, please add more basics"
+293,35-50,Female,Suburban,Self-employed,14500.0,2,1102.0,H&M,73.0,5.0,2,2,4,3,92.0,0.0,2,3,1,1,0,1,1,0,0,0,1,0,0,1,0,0,1,3,Yes,No,8,1024.0,7,49.0,Friends,3,Depends on the fit and fabric
+294,16-24,Female,Suburban,Student,1700.0,1,40.0,Uniqlo,22.0,5.0,2,4,4,1,21.0,0.0,3,1,1,1,1,0,0,0,0,0,0,1,1,1,1,1,0,2,No,No,4,10.0,4,8.0,Friends,3,Delivery and returns need to be easy
+295,35-50,Male,Metro core,Self-employed,18400.0,2,977.0,H&M,93.0,5.0,2,3,5,4,99.0,10.0,4,2,1,1,1,1,0,1,1,1,0,1,1,1,0,0,0,5,No,Yes,10,2690.0,7,110.0,Instagram,4,"Love eco-friendly fabrics, would buy immediately"
+296,35-50,Male,Suburban,Employed,19600.0,0,1032.0,H&M,80.0,5.0,3,3,4,3,89.0,0.0,2,3,1,1,1,0,1,1,0,0,1,0,1,1,0,0,1,4,Maybe,No,5,1192.0,5,30.0,TikTok,2,Need more category choice
+297,35-50,Female,Suburban,Self-employed,9800.0,0,,H&M,54.0,3.0,3,4,5,4,62.0,5.0,3,3,1,1,0,0,0,0,1,0,0,1,0,1,1,0,0,5,No,No,8,689.0,9,29.0,Search,5,"Love eco-friendly fabrics, would buy immediately"
+298,35-50,Female,Suburban,Student,2800.0,0,230.0,,,3.0,3,1,3,4,68.0,5.0,5,5,1,0,1,0,0,1,0,1,0,1,1,1,1,0,0,4,No,Yes,8,337.0,7,40.0,Search,3,"Great concept, please add more basics"
+299,35-50,Female,Metro core,Employed,29300.0,2,1454.0,Zara,105.0,4.0,4,4,4,2,107.0,10.0,5,4,1,1,1,0,1,1,0,1,0,0,0,1,0,1,0,4,No,Yes,10,2218.0,9,88.0,Pop-up,2,"Love eco-friendly fabrics, would buy immediately"
+300,25-34,Male,Suburban,Self-employed,8600.0,4,686.0,Local/Other,67.0,3.0,3,3,3,3,41.0,10.0,3,3,1,1,1,1,1,0,1,1,1,0,1,0,1,0,0,5,Maybe,Yes,10,716.0,7,100.0,Instagram,3,"Love eco-friendly fabrics, would buy immediately"
+301,35-50,Female,Suburban,Employed,22000.0,3,1024.0,Zara,88.0,3.0,4,2,2,3,67.0,0.0,3,4,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,3,No,No,4,304.0,4,18.0,Pop-up,2,Need more category choice
+302,16-24,Female,Other,Student,2000.0,3,40.0,Shein,15.0,2.0,5,2,2,3,10.0,10.0,4,3,1,1,1,1,1,0,1,0,0,1,1,1,0,1,0,3,No,No,7,24.0,5,7.0,Instagram,3,Depends on the fit and fabric
+303,25-34,Female,Metro core,Employed,14100.0,6,1003.0,Uniqlo,57.0,3.0,3,3,3,3,82.0,5.0,3,3,1,1,0,0,1,0,0,1,0,0,1,1,0,1,0,2,No,No,4,36.0,2,7.0,Friends,3,Worried the quality will not justify the price
+304,25-34,Female,Metro core,Self-employed,22900.0,2,803.0,H&M,79.0,3.0,4,1,4,5,100.0,10.0,2,4,1,1,1,1,0,0,1,0,1,1,1,1,0,1,0,5,Maybe,Yes,10,970.0,10,71.0,Friends,3,"Love eco-friendly fabrics, would buy immediately"
+305,35-50,Male,Suburban,Employed,20700.0,1,1503.0,H&M,64.0,4.0,3,2,2,4,41.0,0.0,5,4,1,1,1,1,1,0,0,1,1,0,1,0,1,1,0,5,Maybe,Yes,10,2588.0,6,78.0,Facebook,3,"Nothing really, I love the minimalist idea"
+306,25-34,Male,Metro core,Employed,16600.0,2,1346.0,Local/Other,67.0,2.0,5,3,4,2,61.0,5.0,3,3,1,1,1,1,1,1,0,0,0,1,1,1,1,0,1,3,No,Yes,7,1202.0,5,43.0,Friends,5,Would want to try in a pop-up first
+307,25-34,Female,Suburban,Self-employed,8300.0,2,663.0,Uniqlo,82.0,5.0,3,5,3,3,69.0,15.0,1,4,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,No,No,2,27.0,2,6.0,Pop-up,1,Delivery and returns need to be easy
+308,25-34,Female,Metro core,Employed,18200.0,3,1113.0,Local/Other,69.0,1.0,3,2,4,4,57.0,5.0,3,2,1,1,0,0,0,0,1,0,0,1,0,0,1,0,1,3,No,Yes,10,797.0,7,59.0,Search,3,Would want to try in a pop-up first
+309,16-24,Female,Metro core,Student,1700.0,2,132.0,H&M,18.0,1.0,4,4,3,1,17.0,5.0,3,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,No,No,3,2.0,2,2.0,Instagram,1,Not sure the sustainable claim is genuine
+310,16-24,Female,Suburban,Student,2800.0,2,288.0,Shein,23.0,2.0,4,4,3,3,27.0,5.0,2,3,1,1,1,1,1,0,1,1,0,0,1,1,0,1,1,3,No,No,6,85.0,4,9.0,Instagram,4,Depends on the fit and fabric
+311,25-34,Male,Metro core,Other,6700.0,1,439.0,Shein,26.0,4.0,2,1,4,5,24.0,0.0,4,3,1,0,1,1,0,0,1,0,1,1,1,1,1,1,0,3,No,No,9,,8,10.0,Friends,3,Depends on the fit and fabric
+312,25-34,Male,Metro core,Employed,13700.0,3,1130.0,Local/Other,85.0,4.0,3,4,4,2,,10.0,3,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0,1,4,No,Yes,10,1481.0,6,61.0,Instagram,1,"Nothing really, I love the minimalist idea"
+313,16-24,Male,Suburban,Student,2900.0,1,188.0,H&M,31.0,3.0,2,3,3,3,26.0,5.0,3,3,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,2,No,No,0,6.0,1,3.0,Instagram,3,Worried the quality will not justify the price
+314,25-34,Prefer not to say,Suburban,Employed,7500.0,2,360.0,Local/Other,54.0,3.0,3,3,3,3,34.0,0.0,3,4,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,3,No,No,5,142.0,3,23.0,Instagram,1,Would want to try in a pop-up first
+315,25-34,Prefer not to say,Suburban,Self-employed,7600.0,3,511.0,Zara,76.0,2.0,5,1,3,3,93.0,,4,3,1,0,0,0,1,1,0,1,1,0,1,0,0,0,0,1,Maybe,No,5,41.0,3,8.0,Instagram,3,"I already shop at H&M and Zara, why switch"
+316,16-24,Male,Metro core,Self-employed,20700.0,2,1096.0,Shein,88.0,5.0,4,2,4,4,186.0,,5,5,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,4,Yes,Yes,10,20214.99429815609,6,61.0,TikTok,4,"Love eco-friendly fabrics, would buy immediately"
+317,25-34,Female,Metro core,Employed,12000.0,3,541.0,Uniqlo,65.0,4.0,3,4,3,1,42.0,5.0,3,3,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,No,No,2,32.0,2,12.0,Search,3,Would want to try in a pop-up first
+318,25-34,Female,Other,Other,10100.0,0,,Uniqlo,55.0,4.0,2,3,1,2,55.0,0.0,3,3,0,1,0,1,0,0,0,0,1,1,1,0,0,0,1,3,No,Yes,6,36.0,2,19.0,Pop-up,1,Need more category choice
+319,16-24,Female,Metro core,Student,,3,246.0,Zara,16.0,4.0,5,4,4,4,19.0,5.0,4,3,1,1,1,1,1,1,0,1,0,0,1,1,1,0,1,4,No,No,10,308.0,8,13.0,TikTok,4,"Nothing really, I love the minimalist idea"
+320,35-50,Male,Metro core,Employed,7900.0,2,409.0,Shein,46.0,2.0,3,3,4,2,33.0,5.0,4,2,0,1,1,1,1,0,1,1,0,0,1,0,1,1,0,3,Yes,No,8,339.0,4,33.0,Instagram,4,Depends on the fit and fabric
+321,35-50,Female,Metro core,Employed,22900.0,5,1687.0,Zara,114.0,2.0,4,3,4,3,136.0,5.0,4,4,0,1,0,0,1,1,0,0,0,1,1,0,0,0,1,3,No,No,6,1196.0,4,48.0,Friends,5,Would want to try in a pop-up first
+322,25-34,Male,Metro core,Self-employed,11900.0,5,388.0,Uniqlo,66.0,4.0,4,2,5,5,73.0,5.0,5,5,0,1,1,1,0,0,1,1,1,1,0,1,0,1,1,5,Maybe,Yes,10,562.0,7,72.0,Friends,5,"Nothing really, I love the minimalist idea"
+323,16-24,Male,Suburban,Student,2900.0,2,181.0,Uniqlo,15.0,1.0,3,3,2,2,23.0,15.0,4,4,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,Maybe,Yes,2,7.0,2,2.0,Friends,5,Too expensive compared to Shein
+324,25-34,Male,Suburban,Employed,8200.0,2,497.0,Shein,23.0,2.0,2,1,2,3,28.0,0.0,3,3,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,2,No,No,6,60.0,2,6.0,Friends,2,"I already shop at H&M and Zara, why switch"
+325,35-50,Female,Suburban,Employed,31100.0,1,1996.0,Zara,115.0,2.0,2,4,1,4,108.0,0.0,1,5,0,0,0,1,1,0,0,1,0,0,0,0,1,0,1,1,No,No,3,,2,6.0,Friends,3,"I already shop at H&M and Zara, why switch"
+326,25-34,Female,Metro core,Employed,7400.0,1,318.0,Uniqlo,59.0,5.0,3,5,4,4,59.0,10.0,2,4,1,1,1,1,0,0,0,1,0,0,1,0,1,0,0,4,No,No,8,559.0,5,47.0,Instagram,2,"Love eco-friendly fabrics, would buy immediately"
+327,35-50,Female,Metro core,Self-employed,16200.0,1,571.0,Zara,90.0,5.0,2,5,3,2,104.0,5.0,2,4,1,0,0,0,0,0,0,1,0,0,1,1,1,1,0,4,No,No,4,173.0,3,17.0,Pop-up,1,Too expensive compared to Shein
+328,25-34,Male,Metro core,Employed,11500.0,1,780.0,Uniqlo,65.0,3.0,2,4,3,2,28.0,0.0,3,3,1,1,1,0,0,0,1,1,1,0,0,0,0,1,0,3,No,Yes,7,232.0,4,26.0,Pop-up,4,Need more category choice
+329,25-34,Male,Metro core,Employed,6700.0,7,502.0,Shein,42.0,4.0,1,2,5,2,29.0,5.0,3,3,1,0,0,1,1,0,0,0,0,1,0,1,1,1,0,3,No,No,5,177.0,4,12.0,Facebook,1,Would want to try in a pop-up first
+330,16-24,Male,Metro core,Student,2900.0,3,163.0,Shein,15.0,2.0,2,2,1,5,10.0,5.0,4,3,1,1,1,1,1,1,0,1,1,0,0,0,1,0,0,3,No,No,3,29.0,4,5.0,Search,3,Depends on the fit and fabric
+331,25-34,Female,Metro core,Student,5200.0,0,298.0,Shein,28.0,1.0,4,3,3,3,24.0,10.0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,No,No,4,95.0,4,9.0,Instagram,2,"Only grey is too limiting, I need colour"
+332,16-24,Female,Metro core,Employed,8800.0,3,320.0,Uniqlo,67.0,3.0,4,3,4,1,56.0,0.0,2,4,1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,No,Yes,1,8.0,2,7.0,Instagram,4,"Only grey is too limiting, I need colour"
+333,25-34,Female,Metro core,Employed,13100.0,4,975.0,H&M,77.0,1.0,3,4,4,3,71.0,5.0,3,3,1,0,1,0,0,0,1,1,1,0,1,1,1,0,0,3,No,No,5,319.0,4,31.0,Pop-up,3,Need more category choice
+334,35-50,Male,Suburban,Employed,4300.0,1,1280.0,Uniqlo,50.0,1.0,2,4,1,4,41.0,5.0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,No,Yes,0,1.0,1,3.0,Friends,1,"Only grey is too limiting, I need colour"
+335,16-24,Male,Metro core,Student,2500.0,5,83.0,H&M,15.0,3.0,1,3,3,3,10.0,0.0,2,2,1,0,1,1,0,0,0,0,0,1,1,1,0,0,0,4,No,No,7,40.0,4,8.0,Instagram,4,Would want to try in a pop-up first
+336,25-34,Female,Metro core,Employed,9600.0,5,389.0,H&M,65.0,5.0,4,3,2,3,102.0,10.0,2,2,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,3,No,No,5,285.0,4,19.0,Instagram,1,Would want to try in a pop-up first
+337,16-24,Male,Suburban,Student,1700.0,0,135.0,Shein,15.0,2.0,1,1,4,1,10.0,5.0,4,1,1,1,1,1,1,0,1,0,1,0,0,1,0,1,0,2,No,Yes,6,40.0,5,3.0,Instagram,3,Delivery and returns need to be easy
+338,25-34,Female,Suburban,Employed,17900.0,1,679.0,Zara,107.0,,3,3,3,4,127.0,5.0,3,5,1,1,1,0,1,0,1,0,0,0,1,0,1,0,0,2,No,No,4,258.0,3,31.0,Instagram,1,"Only grey is too limiting, I need colour"
+339,16-24,Male,Suburban,Employed,9500.0,3,533.0,Zara,77.0,3.0,2,3,1,4,60.0,5.0,2,3,1,1,1,0,1,0,0,0,0,0,0,1,1,1,0,1,No,Yes,0,5.0,2,4.0,TikTok,4,Delivery and returns need to be easy
+340,35-50,Female,Metro core,Employed,13700.0,4,,Local/Other,56.0,5.0,4,3,3,2,47.0,10.0,3,1,1,0,0,0,0,1,0,1,1,1,1,1,1,0,0,3,No,Yes,5,454.0,5,31.0,Instagram,3,Depends on the fit and fabric
+341,16-24,Female,Suburban,Employed,9300.0,4,968.0,H&M,46.0,5.0,2,3,5,3,49.0,10.0,4,2,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,3,No,Yes,8,1069.0,5,34.0,TikTok,3,Would want to try in a pop-up first
+342,35-50,Male,Metro core,Self-employed,8000.0,4,349.0,H&M,47.0,2.0,5,2,2,2,38.0,10.0,4,4,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,4,No,Yes,8,282.0,5,19.0,Friends,1,"Love eco-friendly fabrics, would buy immediately"
+343,35-50,Female,Metro core,Employed,8900.0,0,601.0,H&M,60.0,2.0,5,2,3,5,78.0,0.0,4,4,0,0,1,0,1,1,0,1,1,0,1,0,0,1,0,4,Maybe,Yes,8,1043.0,6,61.0,Pop-up,4,"Great concept, please add more basics"
+344,25-34,Female,Metro core,Employed,17000.0,1,914.0,H&M,75.0,3.0,1,3,2,3,43.0,0.0,3,3,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,No,No,2,13.0,2,7.0,Search,4,"I already shop at H&M and Zara, why switch"
+345,35-50,Female,Metro core,Employed,5700.0,3,177.0,Shein,15.0,3.0,3,3,2,4,13.0,5.0,3,4,1,1,0,1,1,0,0,1,0,1,1,1,1,0,0,2,No,No,3,38.0,4,3.0,Instagram,4,"Only grey is too limiting, I need colour"
+346,35-50,Female,Metro core,Self-employed,13400.0,2,416.0,Shein,30.0,2.0,1,4,2,2,16.0,0.0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,1,No,No,1,2.0,1,1.0,Instagram,1,Too expensive compared to Shein
+347,35-50,Male,Metro core,Employed,12400.0,3,682.0,Uniqlo,44.0,4.0,4,4,3,3,53.0,15.0,3,3,1,1,1,1,1,1,1,0,0,1,1,1,0,1,0,3,No,No,6,672.0,13,17.0,Instagram,2,Would want to try in a pop-up first
+348,16-24,Male,Suburban,Other,13100.0,2,765.0,H&M,22.0,1.0,2,3,3,1,20.0,10.0,4,2,1,1,0,1,0,1,0,0,0,0,0,0,1,0,1,1,No,No,1,7.0,1,1.0,TikTok,4,Not sure the sustainable claim is genuine
+349,25-34,Male,Metro core,Employed,15500.0,2,1177.0,Zara,840.0,4.0,3,3,4,1,,0.0,5,2,1,1,1,0,0,0,0,0,1,0,0,1,1,1,0,2,No,No,2,22.0,2,6.0,Friends,2,"I already shop at H&M and Zara, why switch"
+350,16-24,Female,Metro core,Student,1900.0,1,121.0,,46.0,4.0,2,2,3,4,39.0,0.0,2,1,1,1,1,0,0,0,0,1,0,1,0,0,1,1,1,3,No,No,7,62.0,5,21.0,Instagram,3,Depends on the fit and fabric
+351,25-34,Male,Metro core,Employed,19800.0,3,1313.0,Uniqlo,116.0,,3,5,4,3,99.0,0.0,2,3,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,2,No,No,1,77.0,3,13.0,Friends,4,Worried the quality will not justify the price
+352,16-24,Female,Metro core,Student,,54,132.0,Uniqlo,15.0,1.0,1,5,2,3,10.0,0.0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,No,No,0,1.0,2,1.0,Search,3,"Only grey is too limiting, I need colour"
+353,25-34,Female,Metro core,Self-employed,22000.0,3,996.0,H&M,87.0,2.0,4,3,2,3,116.0,5.0,2,4,0,1,0,0,1,0,0,1,1,0,1,1,1,1,0,3,No,No,5,214.0,2,24.0,TikTok,1,Need more category choice
+354,25-34,Female,Metro core,Employed,6000.0,4,520.0,Shein,15.0,4.0,4,3,3,2,,10.0,2,4,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,4,Maybe,No,8,382.0,6,10.0,Instagram,4,"Great concept, please add more basics"
+355,25-34,Male,Metro core,Self-employed,22700.0,3,749.0,Shein,44.0,2.0,2,3,2,4,26.0,0.0,1,3,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2,No,No,5,139.0,3,8.0,Pop-up,2,"I already shop at H&M and Zara, why switch"
+356,25-34,Male,Suburban,Self-employed,11700.0,1,423.0,Zara,59.0,4.0,5,3,4,5,87.0,0.0,4,4,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,5,Yes,Yes,10,736.0,7,37.0,Pop-up,1,"Love eco-friendly fabrics, would buy immediately"
+357,35-50,Male,Other,Self-employed,11900.0,4,602.0,Uniqlo,70.0,2.0,4,3,2,2,63.0,0.0,2,3,1,0,0,1,0,0,0,1,1,0,1,1,1,1,0,2,No,Yes,7,166.0,3,32.0,Instagram,2,"Only grey is too limiting, I need colour"
+358,35-50,Female,Metro core,Employed,13500.0,4,,Uniqlo,75.0,4.0,5,4,5,4,112.0,5.0,2,4,1,0,1,1,0,1,1,0,1,1,1,1,1,1,0,4,Maybe,No,10,911.0,6,47.0,Friends,3,"Great concept, please add more basics"
+359,25-34,Female,Suburban,Employed,12500.0,1,884.0,H&M,71.0,2.0,5,3,4,3,78.0,5.0,4,4,1,1,0,0,0,0,0,1,1,0,0,1,1,1,1,4,Maybe,Yes,10,2180.0,5,55.0,TikTok,3,"Great concept, please add more basics"
+360,25-34,Male,Suburban,Employed,8800.0,2,283.0,H&M,67.0,4.0,2,1,3,2,57.0,,4,2,1,1,1,1,0,0,0,1,0,0,0,1,1,1,0,3,No,No,6,115.0,5,20.0,Friends,3,Need more category choice
+361,35-50,Male,Other,Employed,19100.0,69,501.0,Uniqlo,83.0,3.0,3,4,2,5,63.0,0.0,2,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,No,No,2,17.0,2,10.0,Pop-up,3,Not sure the sustainable claim is genuine
+362,16-24,Female,Metro core,Student,1900.0,5,182.0,Local/Other,15.0,3.0,3,3,4,3,27.0,0.0,3,1,1,0,1,0,0,0,1,1,1,1,0,0,0,1,1,4,Yes,Yes,10,372.0,7,7.0,Instagram,3,"Love eco-friendly fabrics, would buy immediately"
+363,16-24,Female,Suburban,Student,33000.0,2,309.0,Uniqlo,19.0,1.0,5,2,2,3,10.0,0.0,3,2,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,2,No,No,4,35.0,3,4.0,Instagram,3,Worried the quality will not justify the price
+364,16-24,Female,Other,Student,3100.0,3,280.0,Uniqlo,15.0,2.0,4,2,5,3,16.0,0.0,5,4,1,1,1,0,0,0,1,1,1,0,0,0,1,0,0,4,Yes,Yes,10,614.0,9,16.0,Facebook,5,"Great concept, please add more basics"
+365,25-34,Male,Suburban,Employed,10700.0,5,6060.0,Uniqlo,48.0,5.0,3,3,3,3,57.0,0.0,1,3,1,0,1,0,1,0,0,0,0,1,0,1,1,1,0,3,No,No,4,88.0,3,14.0,Friends,4,Need more category choice
+366,25-34,Female,Metro core,Self-employed,11500.0,1,814.0,Zara,87.0,4.0,3,3,5,4,90.0,0.0,2,2,1,0,1,0,1,0,0,1,0,1,0,1,0,0,0,5,No,Yes,10,2137.0,16,59.0,Search,3,"Nothing really, I love the minimalist idea"
+367,35-50,Male,Metro core,Employed,15900.0,3,543.0,H&M,69.0,2.0,2,3,3,4,54.0,10.0,3,2,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,No,No,0,4.0,1,3.0,Friends,4,Delivery and returns need to be easy
+368,25-34,Female,Metro core,Employed,14100.0,4,701.0,Zara,55.0,5.0,5,2,5,2,50.0,0.0,4,3,1,0,1,1,1,1,1,0,0,0,1,1,1,1,0,4,Yes,No,7,1438.0,13,40.0,Pop-up,3,"Great concept, please add more basics"
+369,16-24,Male,Metro core,Student,6300.0,3,165.0,Local/Other,46.0,2.0,4,4,2,4,40.0,0.0,2,4,1,1,0,0,1,0,0,0,0,1,0,0,1,1,1,2,No,Yes,4,9.0,2,6.0,Friends,2,Not sure the sustainable claim is genuine
+370,35-50,Female,Metro core,Other,12400.0,3,893.0,Shein,26.0,5.0,3,4,4,4,18.0,0.0,4,4,1,1,1,1,0,1,0,1,1,1,0,0,1,1,1,5,Maybe,Yes,10,1599.0,8,20.0,Friends,5,"Great concept, please add more basics"
+371,35-50,Female,Metro core,Employed,23000.0,1,1705.0,Local/Other,111.0,,3,3,3,4,71.0,10.0,4,4,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,3,No,No,8,727.0,4,53.0,Instagram,2,Need more category choice
+372,16-24,Female,Metro core,Student,10000.0,8,839.0,H&M,52.0,3.0,3,3,3,3,42.0,5.0,3,3,1,1,0,0,1,0,1,0,0,0,1,0,1,1,0,2,No,Yes,0,6.0,1,2.0,Instagram,3,Worried the quality will not justify the price
+373,25-34,Female,Metro core,Self-employed,17700.0,3,1585.0,Zara,100.0,4.0,2,4,4,3,77.0,5.0,4,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,0,4,No,No,7,1516.0,5,77.0,Friends,2,"Love eco-friendly fabrics, would buy immediately"
+374,16-24,Male,Suburban,Student,3100.0,2,247.0,,50.0,1.0,2,2,2,3,38.0,0.0,3,1,0,1,0,1,0,1,1,1,0,0,1,0,1,1,1,2,No,Yes,4,27.0,5,9.0,Instagram,4,Too expensive compared to Shein
+375,16-24,Female,Metro core,Student,3400.0,2,218.0,H&M,15.0,2.0,5,3,3,3,22.0,5.0,3,5,1,1,1,0,0,1,0,1,0,1,1,1,0,0,1,4,Yes,No,10,240.0,6,8.0,Instagram,2,"Great concept, please add more basics"
+376,16-24,Male,Metro core,Student,1600.0,2,165.0,H&M,15.0,1.0,3,3,4,3,30.0,0.0,2,3,1,0,1,1,0,1,1,0,0,0,0,0,0,1,1,2,No,No,6,54.0,4,5.0,Instagram,5,"I already shop at H&M and Zara, why switch"
+377,35-50,Female,Suburban,Employed,12200.0,1,813.0,Shein,53.0,3.0,3,2,3,3,67.0,0.0,2,3,1,0,1,0,1,1,0,0,0,0,1,1,1,1,0,1,No,No,5,91.0,2,12.0,Search,4,"Only grey is too limiting, I need colour"
+378,25-34,Female,Suburban,Employed,8800.0,1,476.0,Uniqlo,67.0,4.0,1,4,3,3,31.0,0.0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,No,No,0,6.0,1,3.0,Friends,3,Worried the quality will not justify the price
+379,25-34,Male,Other,Employed,14700.0,0,977.0,Uniqlo,86.0,2.0,5,4,3,3,80.0,15.0,3,3,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,4,No,Yes,8,1984.0,5,59.0,Pop-up,4,"Great concept, please add more basics"
+380,25-34,Female,Suburban,Employed,10200.0,2,601.0,H&M,41.0,4.0,3,3,4,5,39.0,0.0,4,2,1,1,1,0,0,1,0,1,0,1,1,1,1,0,0,5,Yes,No,10,841.0,9,24.0,Search,3,"Love eco-friendly fabrics, would buy immediately"
+381,25-34,Prefer not to say,Suburban,Employed,11700.0,3,632.0,Uniqlo,82.0,2.0,2,3,3,3,,0.0,2,3,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,2,No,No,2,28.0,2,11.0,Pop-up,3,Too expensive compared to Shein
+382,35-50,Male,Metro core,Employed,24200.0,5,1270.0,H&M,80.0,3.0,3,3,2,4,69.0,0.0,3,3,0,1,1,0,0,0,0,1,0,0,1,1,0,1,0,2,No,No,0,14.0,2,6.0,Friends,3,Delivery and returns need to be easy
+383,35-50,Male,Metro core,Employed,21900.0,2,732.0,H&M,89.0,2.0,3,2,3,4,80.0,0.0,3,2,0,0,1,0,1,0,0,0,0,1,0,1,0,1,1,1,No,No,3,45.0,2,13.0,Friends,3,Too expensive compared to Shein
+384,25-34,Female,Metro core,Employed,,2,655.0,Uniqlo,83.0,3.0,2,3,3,4,62.0,0.0,2,3,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,2,No,No,6,184.0,4,41.0,Pop-up,4,Worried the quality will not justify the price
+385,25-34,Female,Metro core,Employed,8100.0,2,244.0,Zara,76.0,,4,3,4,5,112.0,5.0,3,3,1,1,1,1,1,1,0,1,1,0,0,0,1,0,0,5,Maybe,Yes,10,450.0,6,59.0,Search,1,"Love eco-friendly fabrics, would buy immediately"
+386,35-50,Male,Other,Employed,24800.0,3,1127.0,Local/Other,93.0,3.0,3,3,5,3,810.0,0.0,3,3,0,1,1,1,1,0,0,0,1,1,0,1,1,1,1,1,No,Yes,4,149.0,2,18.0,Pop-up,4,Delivery and returns need to be easy
+387,25-34,Female,Metro core,Employed,15600.0,1,905.0,Zara,96.0,4.0,3,3,5,4,97.0,5.0,4,3,1,1,1,0,1,1,1,1,0,0,0,1,1,0,1,5,No,Yes,9,1751.0,6,102.0,Friends,2,"Nothing really, I love the minimalist idea"
+388,35-50,Female,Metro core,Employed,7200.0,3,357.0,H&M,61.0,2.0,3,4,3,3,64.0,,3,4,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,No,Yes,0,7.0,2,6.0,Pop-up,3,Not sure the sustainable claim is genuine
+389,16-24,Female,Metro core,Student,2200.0,3,177.0,H&M,38.0,1.0,3,3,2,4,23.0,0.0,3,3,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,3,Maybe,No,4,51.0,6,9.0,TikTok,3,Need more category choice
+390,35-50,Male,Metro core,Employed,16000.0,5,811.0,Shein,52.0,4.0,4,2,2,4,46.0,10.0,2,2,1,0,0,1,1,1,0,0,0,0,1,1,1,1,0,5,No,No,5,176.0,4,8.0,Facebook,3,Would want to try in a pop-up first
+391,25-34,Male,Metro core,Self-employed,19900.0,3,945.0,H&M,84.0,3.0,4,3,5,3,104.0,0.0,3,4,1,1,0,0,0,0,0,1,1,1,1,0,1,1,0,4,Yes,No,5,927.0,4,34.0,TikTok,1,"Nothing really, I love the minimalist idea"
+392,16-24,Male,Metro core,Student,3800.0,3,128.0,H&M,46.0,1.0,3,3,2,5,58.0,5.0,5,3,1,1,1,1,0,0,0,0,1,1,1,0,1,1,1,3,No,Yes,6,145.0,6,31.0,Instagram,4,Depends on the fit and fabric
+393,25-34,Male,Other,Employed,12500.0,5,890.0,Zara,72.0,4.0,2,5,3,1,58.0,5.0,1,3,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,2,No,No,1,26.0,2,10.0,Instagram,1,Delivery and returns need to be easy
+394,25-34,Female,Metro core,Other,7800.0,4,589.0,H&M,33.0,4.0,4,2,4,3,10.0,0.0,5,4,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0,5,Maybe,Yes,10,1171.0,10,19.0,Pop-up,3,"Love eco-friendly fabrics, would buy immediately"
+395,16-24,Male,Suburban,Student,2600.0,0,,Shein,15.0,2.0,2,4,3,2,32.0,5.0,4,2,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,3,No,Yes,4,10.0,3,4.0,Instagram,3,Depends on the fit and fabric
+396,25-34,Female,Suburban,Employed,8100.0,1,344.0,Zara,63.0,5.0,2,4,3,5,52.0,0.0,3,4,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,4,Maybe,No,9,189.0,4,44.0,Search,3,"Love eco-friendly fabrics, would buy immediately"
+397,35-50,Male,Metro core,Employed,13200.0,4,793.0,H&M,51.0,3.0,4,3,3,3,52.0,10.0,2,2,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,No,Yes,3,84.0,3,15.0,Instagram,1,Not sure the sustainable claim is genuine
+398,16-24,Female,Metro core,Student,2500.0,3,262.0,Shein,15.0,4.0,2,4,2,2,10.0,0.0,3,2,0,1,0,1,0,0,0,0,0,1,0,1,1,1,0,2,No,No,3,20.0,3,3.0,Instagram,2,"Only grey is too limiting, I need colour"
+399,25-34,Prefer not to say,Suburban,Employed,10800.0,1,623.0,Zara,96.0,3.0,2,5,2,3,82.0,5.0,2,3,1,1,1,0,0,1,0,1,0,1,1,0,0,1,1,3,No,Yes,6,183.0,5,45.0,Friends,5,Would want to try in a pop-up first
+400,25-34,Female,Metro core,Employed,4700.0,3,137.0,Shein,15.0,3.0,2,4,4,1,11.0,5.0,2,4,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,No,No,2,9.0,2,2.0,Instagram,4,Worried the quality will not justify the price
+401,16-24,Female,Other,Student,2100.0,2,40.0,H&M,29.0,2.0,2,2,3,2,10.0,0.0,3,2,1,1,1,0,0,1,0,1,0,0,0,1,1,1,0,3,No,Yes,3,,3,9.0,Instagram,3,Need more category choice
+402,35-50,Female,Metro core,Employed,15200.0,2,445.0,Uniqlo,43.0,3.0,3,5,3,3,46.0,0.0,2,4,1,0,1,1,0,0,0,1,0,0,0,1,1,0,0,1,No,No,0,13.0,2,5.0,Instagram,4,Delivery and returns need to be easy
+403,35-50,Female,Suburban,Employed,13100.0,2,1001.0,,63.0,4.0,4,2,3,2,68.0,10.0,3,2,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1,2,No,No,1,39.0,2,9.0,Friends,3,Delivery and returns need to be easy
+404,16-24,Female,Suburban,Student,2200.0,2,256.0,Zara,55.0,1.0,1,5,2,3,20.0,10.0,3,2,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,No,No,1,3.0,2,2.0,Instagram,2,Worried the quality will not justify the price
+405,35-50,Male,Metro core,Employed,18500.0,1,14160.0,Zara,86.0,3.0,3,4,2,4,81.0,5.0,1,2,0,1,0,0,1,0,0,0,0,1,1,0,0,1,0,1,Yes,No,4,72.0,2,12.0,Friends,2,"I already shop at H&M and Zara, why switch"
+406,35-50,Female,Metro core,Employed,9100.0,1,633.0,Local/Other,59.0,3.0,3,4,4,2,60.0,5.0,3,5,1,1,0,0,0,0,1,1,0,1,0,0,1,0,0,2,No,Yes,4,126.0,4,23.0,Instagram,1,Too expensive compared to Shein
+407,16-24,Male,Other,Employed,5300.0,3,276.0,H&M,53.0,3.0,3,2,2,2,48.0,10.0,2,2,1,1,1,0,1,0,0,0,0,0,0,1,1,0,1,1,No,No,0,3.0,1,4.0,Instagram,4,Too expensive compared to Shein
+408,35-50,Female,Metro core,Employed,12700.0,2,1040.0,Local/Other,42.0,3.0,1,4,5,4,420.0,5.0,3,3,1,0,1,0,0,1,0,0,0,0,1,0,1,1,1,3,No,Yes,8,826.0,5,20.0,Instagram,2,Depends on the fit and fabric
+409,16-24,Male,Metro core,Student,3500.0,4,174.0,Local/Other,30.0,3.0,3,4,3,4,18.0,5.0,1,3,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,2,No,No,4,18.0,4,8.0,Instagram,2,"I already shop at H&M and Zara, why switch"
+410,35-50,Female,Metro core,Employed,31700.0,2,1696.0,Zara,108.0,3.0,4,3,4,5,160.0,10.0,2,2,1,1,1,0,0,1,0,0,0,1,1,0,0,0,0,3,No,No,4,969.0,4,43.0,Pop-up,5,Need more category choice
+411,25-34,Male,Metro core,Employed,15600.0,3,986.0,Zara,114.0,3.0,1,3,2,4,87.0,0.0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,No,Yes,0,6.0,1,6.0,Friends,4,Worried the quality will not justify the price
+412,25-34,Male,Suburban,Self-employed,7200.0,0,201.0,Zara,44.0,4.0,4,2,3,5,43.0,10.0,5,4,1,1,1,1,1,0,0,1,0,0,1,1,0,1,0,4,No,Yes,8,292.0,5,27.0,Friends,3,"Love eco-friendly fabrics, would buy immediately"
+413,16-24,Female,Suburban,Employed,9900.0,3,1027.0,Local/Other,55.0,3.0,3,3,2,4,45.0,5.0,3,3,1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,3,No,No,5,534.0,5,30.0,Pop-up,3,Would want to try in a pop-up first
+414,35-50,Male,Metro core,Student,3800.0,4,357.0,Shein,15.0,3.0,3,3,3,3,12.0,0.0,3,3,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,3,No,No,4,154.0,4,7.0,Instagram,3,Would want to try in a pop-up first
+415,16-24,Female,Suburban,Self-employed,152000.0,4,1471.0,,70.0,1.0,1,3,3,5,35.0,0.0,3,2,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,2,No,No,3,,2,7.0,Pop-up,3,Too expensive compared to Shein
+416,16-24,Female,Metro core,Student,3200.0,4,321.0,H&M,43.0,4.0,2,5,3,1,41.0,0.0,2,4,1,0,1,1,0,1,1,0,1,0,0,1,1,0,0,1,No,No,2,19.0,2,7.0,Friends,4,Delivery and returns need to be easy
+417,16-24,Male,Metro core,Student,1700.0,3,196.0,Shein,15.0,2.0,3,5,3,1,26.0,10.0,3,4,1,0,1,1,1,0,1,0,0,1,1,0,0,1,0,3,No,No,4,38.0,4,6.0,Friends,5,Depends on the fit and fabric
+418,35-50,Male,Metro core,Employed,15300.0,3,461.0,H&M,65.0,,2,2,2,3,47.0,5.0,2,4,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,2,No,No,4,5.0,1,4.0,Search,3,"Only grey is too limiting, I need colour"
+419,16-24,Female,Other,Self-employed,16900.0,3,1416.0,H&M,69.0,3.0,3,4,3,4,59.0,10.0,3,2,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,2,No,No,5,5544.183955942862,4,18.0,Instagram,4,Too expensive compared to Shein
+420,35-50,Female,Metro core,Self-employed,27400.0,3,1808.0,Zara,94.0,3.0,2,4,3,4,115.0,10.0,4,4,1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,4,Yes,No,8,2459.0,6,68.0,Friends,4,"Great concept, please add more basics"
+421,25-34,Male,Metro core,Employed,7700.0,3,656.0,Zara,,3.0,3,3,3,3,40.0,5.0,2,3,1,1,0,1,1,0,0,0,0,1,0,1,0,1,0,3,No,No,2,15.0,2,4.0,Friends,2,Too expensive compared to Shein
+422,16-24,Male,Metro core,Student,2100.0,2,74.0,Local/Other,15.0,3.0,3,4,4,3,14.0,10.0,3,5,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,4,Yes,No,10,163.0,6,16.0,Friends,4,"Love eco-friendly fabrics, would buy immediately"
+423,16-24,Prefer not to say,Suburban,Student,700.0,1,43.0,Shein,15.0,1.0,1,4,3,1,10.0,0.0,2,2,1,0,1,0,1,0,0,0,0,0,0,0,1,1,0,2,No,No,3,2.0,2,3.0,Instagram,2,Not sure the sustainable claim is genuine
+424,16-24,Male,Metro core,Student,1900.0,3,137.0,H&M,15.0,2.0,4,2,5,2,20.0,5.0,3,1,1,1,1,0,0,1,0,0,1,1,1,1,1,0,0,3,Maybe,Yes,5,71.0,5,10.0,Instagram,5,Need more category choice
+425,25-34,Male,Metro core,Other,4700.0,3,455.0,Zara,39.0,4.0,4,2,2,2,37.0,0.0,3,4,1,1,1,1,0,0,0,1,0,1,0,0,1,1,1,3,No,No,4,197.0,4,13.0,Search,3,Need more category choice
+426,35-50,Female,Suburban,Employed,9400.0,0,712.0,Shein,39.0,3.0,3,3,3,3,50.0,5.0,3,3,1,1,1,1,0,1,0,1,0,1,1,0,0,1,0,4,No,Yes,9,1661.0,8,46.0,Friends,3,"Great concept, please add more basics"
+427,16-24,Male,Metro core,Employed,11900.0,0,1235.0,Uniqlo,77.0,1.0,3,3,3,3,87.0,0.0,2,3,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,2,No,No,2,59.0,2,16.0,Instagram,5,Delivery and returns need to be easy
+428,35-50,Female,Metro core,Employed,14500.0,4,652.0,H&M,63.0,4.0,3,3,3,3,64.0,10.0,4,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,No,No,4,25.0,2,7.0,Instagram,3,Not sure the sustainable claim is genuine
+429,16-24,Male,Metro core,Student,900.0,6,58.0,Zara,15.0,2.0,2,3,3,2,16.0,10.0,2,4,1,1,0,1,0,0,0,0,0,1,0,0,1,1,1,1,No,No,3,2.0,3,2.0,Facebook,2,Too expensive compared to Shein
+430,35-50,Female,Metro core,Employed,16400.0,2,472.0,Uniqlo,116.0,2.0,1,4,3,2,84.0,0.0,4,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,No,No,2,16.0,2,13.0,Instagram,2,Not sure the sustainable claim is genuine
+431,35-50,Male,Metro core,Employed,9800.0,1,565.0,Local/Other,92.0,2.0,2,3,5,4,86.0,10.0,3,5,1,0,1,1,0,0,1,0,1,1,1,1,1,1,0,4,Yes,Yes,10,993.0,6,62.0,Instagram,3,"Love eco-friendly fabrics, would buy immediately"
+432,35-50,Male,Suburban,Employed,18500.0,0,985.0,Shein,41.0,5.0,2,4,4,1,38.0,0.0,3,2,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,3,No,Yes,4,1229.4330707690083,3,5.0,Search,3,Depends on the fit and fabric
+433,25-34,Female,Suburban,Employed,6200.0,2,468.0,H&M,33.0,2.0,4,4,5,2,39.0,10.0,3,3,0,1,1,0,1,1,0,1,0,1,1,1,1,0,0,3,No,Yes,3,223.0,4,14.0,Instagram,2,Would want to try in a pop-up first
+434,35-50,Male,Suburban,Self-employed,19200.0,3,1074.0,Uniqlo,72.0,,3,2,4,3,85.0,10.0,3,5,1,1,1,1,0,1,0,1,1,0,1,0,0,1,0,3,Yes,Yes,10,1678.0,6,47.0,Instagram,2,Need more category choice
+435,16-24,Female,Other,Employed,97000.0,3,406.0,H&M,76.0,,3,4,3,4,75.0,10.0,3,3,1,1,1,1,0,1,0,0,0,0,1,0,0,1,0,2,No,No,4,127.0,3,20.0,Friends,3,"Only grey is too limiting, I need colour"
+436,16-24,Male,Metro core,Employed,12600.0,2,914.0,Shein,40.0,4.0,1,4,2,2,18.0,5.0,3,2,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,No,No,0,3.0,1,1.0,Instagram,4,"Only grey is too limiting, I need colour"
+437,16-24,Female,Metro core,Student,2600.0,3,203.0,Zara,36.0,3.0,2,4,1,5,37.0,0.0,3,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,2,No,No,2,68.0,5,9.0,Instagram,3,Not sure the sustainable claim is genuine
+438,25-34,Female,Other,Employed,9800.0,1,461.0,H&M,90.0,2.0,4,3,4,5,106.0,5.0,2,3,1,0,1,0,1,1,1,0,0,1,0,0,1,0,1,3,No,No,8,296.0,3,46.0,Friends,2,Need more category choice
+439,35-50,Female,Metro core,Employed,7400.0,1,381.0,Zara,63.0,5.0,4,5,4,2,56.0,5.0,3,4,1,1,1,1,1,0,1,1,1,0,0,1,0,1,0,4,No,Yes,7,468.0,9,64.0,Friends,4,"Great concept, please add more basics"
+440,25-34,Female,Suburban,Employed,5700.0,3,402.0,H&M,54.0,1.0,5,2,3,5,59.0,5.0,3,2,1,0,1,1,1,1,1,0,0,1,1,0,0,1,0,4,Maybe,Yes,5,39.0,3,9.0,Facebook,3,Too expensive compared to Shein
+441,35-50,Female,Suburban,Self-employed,14500.0,0,1132.0,H&M,80.0,3.0,3,5,4,1,59.0,5.0,1,2,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,2,No,No,2,35.0,2,12.0,Pop-up,5,"I already shop at H&M and Zara, why switch"
+442,16-24,Male,Metro core,Student,2500.0,1,179.0,Uniqlo,,3.0,5,2,2,3,10.0,5.0,3,3,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,3,No,No,7,76.0,6,8.0,Pop-up,2,Would want to try in a pop-up first
+443,25-34,Male,Metro core,Employed,8400.0,1,374.0,Shein,49.0,1.0,3,5,1,2,25.0,0.0,2,3,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,2,No,Yes,0,1.0,1,1.0,Friends,3,Too expensive compared to Shein
+444,16-24,Male,Metro core,Student,3300.0,5,216.0,Shein,15.0,4.0,5,5,4,4,10.0,0.0,3,4,1,1,1,0,0,0,0,1,0,1,0,1,1,1,0,4,Maybe,No,7,152.0,6,8.0,Facebook,3,"Great concept, please add more basics"
+445,16-24,Female,Metro core,Student,2200.0,6,251.0,Zara,47.0,2.0,2,3,2,2,30.0,0.0,4,3,1,1,0,0,0,1,1,0,0,1,0,0,0,1,0,1,No,Yes,0,0.0,1,1.0,Pop-up,4,Too expensive compared to Shein
+446,25-34,Female,Metro core,Employed,7100.0,1,527.0,H&M,42.0,3.0,2,2,3,3,33.0,5.0,5,2,1,1,1,1,0,0,1,1,1,1,0,0,0,1,0,4,No,No,9,814.0,6,35.0,Instagram,5,"Love eco-friendly fabrics, would buy immediately"
+447,35-50,Female,Metro core,Employed,13100.0,2,523.0,Zara,74.0,1.0,5,4,3,3,95.0,0.0,3,5,1,1,0,1,0,0,0,0,0,0,1,0,0,1,0,2,No,Yes,3,80.0,2,23.0,Friends,2,Not sure the sustainable claim is genuine
+448,25-34,Male,Suburban,Employed,12200.0,0,998.0,Zara,,4.0,4,5,4,3,56.0,0.0,1,3,1,1,1,0,1,0,0,0,1,0,0,0,0,1,0,4,Maybe,No,8,1178.0,9,30.0,Instagram,4,"Nothing really, I love the minimalist idea"
+449,16-24,Male,Other,Student,2900.0,0,143.0,H&M,15.0,4.0,4,2,5,5,28.0,0.0,5,3,1,0,1,1,0,1,1,0,1,1,0,1,1,1,1,5,Maybe,Yes,10,312.0,5,9.0,Instagram,3,"Love eco-friendly fabrics, would buy immediately"
+450,25-34,Female,Suburban,Employed,25600.0,1,1858.0,Local/Other,82.0,4.0,3,5,3,2,49.0,0.0,4,3,1,0,1,0,0,1,0,1,0,1,0,1,0,1,0,4,Maybe,No,7,963.0,5,38.0,Search,4,"Great concept, please add more basics"
+451,16-24,Male,Metro core,Student,1900.0,1,188.0,Local/Other,15.0,3.0,1,3,3,5,10.0,10.0,3,2,1,1,1,0,1,0,0,1,0,0,0,1,0,1,0,2,No,No,5,33.0,4,5.0,Instagram,2,Worried the quality will not justify the price
+452,35-50,Female,Metro core,Employed,14400.0,4,586.0,H&M,68.0,5.0,4,2,3,2,59.0,,2,3,1,0,1,1,0,0,0,1,0,0,0,1,1,1,0,3,No,Yes,7,466.0,6,46.0,TikTok,4,Would want to try in a pop-up first
+453,25-34,Female,Metro core,Self-employed,17000.0,1,1483.0,Shein,47.0,2.0,4,2,3,5,56.0,10.0,2,4,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0,4,Maybe,Yes,5,1643.0,8,46.0,Instagram,4,"Great concept, please add more basics"
+454,16-24,Female,Metro core,Student,2500.0,1,166.0,,39.0,3.0,3,3,3,3,39.0,15.0,3,3,1,1,1,0,0,1,1,1,0,1,0,1,1,1,0,2,No,No,2,26.0,3,11.0,Facebook,3,"I already shop at H&M and Zara, why switch"
+455,16-24,Female,Other,Other,4800.0,0,398.0,H&M,45.0,5.0,1,1,5,2,40.0,10.0,5,4,1,0,1,0,1,0,1,0,0,1,1,1,1,0,1,5,Maybe,Yes,10,677.0,9,36.0,Pop-up,4,"Love eco-friendly fabrics, would buy immediately"
+456,16-24,Male,Metro core,Student,1200.0,2,186.0,Shein,15.0,2.0,3,2,1,2,10.0,5.0,3,4,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,No,Yes,0,1.0,1,0.0,TikTok,3,"Only grey is too limiting, I need colour"
+457,35-50,Male,Metro core,Employed,11800.0,2,794.0,H&M,59.0,4.0,3,3,3,5,54.0,10.0,2,3,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,2,No,No,2,50.0,2,8.0,Pop-up,2,Delivery and returns need to be easy
+458,25-34,Female,Suburban,Employed,6800.0,0,183.0,H&M,46.0,1.0,5,2,2,3,56.0,0.0,2,4,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,2,No,No,8,18.0,3,11.0,Facebook,1,Worried the quality will not justify the price
+459,35-50,Male,Metro core,Employed,6800.0,1,520.0,Local/Other,71.0,2.0,4,4,3,1,45.0,0.0,1,4,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,1,No,Yes,0,4.0,1,4.0,Search,4,Not sure the sustainable claim is genuine
+460,25-34,Male,Metro core,Employed,7700.0,6,638.0,Uniqlo,48.0,4.0,4,2,3,2,58.0,5.0,4,2,1,0,1,0,0,1,0,1,0,1,1,1,0,1,0,4,Yes,Yes,9,632.0,8,35.0,Search,3,"Love eco-friendly fabrics, would buy immediately"
+461,25-34,Male,Metro core,Employed,6900.0,1,477.0,H&M,39.0,3.0,3,3,3,3,43.0,5.0,3,3,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,3,No,Yes,7,351.0,3,23.0,Instagram,3,Would want to try in a pop-up first
+462,16-24,Male,Suburban,Other,7800.0,1,613.0,Zara,48.0,4.0,2,3,4,3,21.0,5.0,5,2,1,1,1,0,1,0,1,0,1,0,0,1,1,0,1,4,Yes,Yes,10,719.0,8,28.0,Pop-up,3,"Love eco-friendly fabrics, would buy immediately"
+463,35-50,Female,Suburban,Employed,19500.0,1,609.0,Local/Other,58.0,3.0,2,4,3,4,33.0,0.0,3,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,3,No,Yes,4,220.0,5,19.0,Instagram,4,Depends on the fit and fabric
+464,16-24,Male,Metro core,Student,1700.0,3,158.0,Zara,24.0,2.0,3,3,3,2,30.0,5.0,4,2,1,0,1,0,1,1,1,0,0,0,0,0,0,0,1,2,No,No,4,6.0,2,4.0,TikTok,3,Too expensive compared to Shein
+465,25-34,Female,Other,Employed,9800.0,1,297.0,Local/Other,63.0,2.0,3,2,3,2,55.0,0.0,3,2,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,No,No,1,4.0,1,3.0,Instagram,4,Delivery and returns need to be easy
+466,25-34,Prefer not to say,Suburban,Employed,4800.0,2,2150.0,Local/Other,58.0,2.0,4,3,4,4,58.0,5.0,2,4,1,0,1,1,1,1,0,1,0,1,0,0,0,1,1,4,No,No,10,299.0,6,35.0,Facebook,3,"Great concept, please add more basics"
+467,25-34,Female,Suburban,Employed,8800.0,4,723.0,Zara,84.0,4.0,2,4,3,2,63.0,,2,5,1,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,No,Yes,3,18.0,2,7.0,Search,2,"Only grey is too limiting, I need colour"
+468,35-50,Male,Metro core,Employed,17800.0,2,1444.0,Uniqlo,122.0,4.0,3,2,3,4,160.0,0.0,2,3,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,4,Maybe,No,10,2326.0,7,69.0,Pop-up,4,"Great concept, please add more basics"
+469,16-24,Female,Metro core,Employed,15900.0,4,1704.0,Uniqlo,81.0,2.0,4,2,2,3,50.0,0.0,4,3,0,1,1,0,0,0,0,1,0,0,0,1,1,1,0,3,No,Yes,5,1158.0,4,48.0,TikTok,5,Need more category choice
+470,25-34,Female,Suburban,Student,1800.0,0,,Shein,15.0,2.0,5,4,4,2,10.0,5.0,3,4,0,1,1,1,0,1,1,1,0,1,1,1,1,0,0,2,No,No,6,42.0,4,4.0,Search,2,Delivery and returns need to be easy
+471,25-34,Male,Metro core,Employed,,8,819.0,Zara,70.0,4.0,1,5,3,4,53.0,0.0,3,3,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,2,No,Yes,4,486.0,4,27.0,Facebook,3,"Only grey is too limiting, I need colour"
+472,25-34,Male,Metro core,Employed,5600.0,4,,H&M,54.0,3.0,5,2,3,4,93.0,10.0,3,5,1,1,1,0,0,1,0,1,1,1,1,0,1,1,0,4,Maybe,No,8,419.0,7,30.0,Instagram,3,"Love eco-friendly fabrics, would buy immediately"
+473,16-24,Female,Suburban,Employed,6300.0,3,200.0,H&M,49.0,4.0,3,4,5,3,37.0,5.0,3,4,1,1,1,0,0,0,1,0,1,0,0,1,1,1,0,4,Yes,No,8,194.0,5,34.0,Pop-up,4,"Great concept, please add more basics"
+474,16-24,Male,Metro core,Employed,15100.0,1,1246.0,,91.0,5.0,2,2,3,2,80.0,5.0,2,2,1,1,1,1,0,1,1,0,0,0,0,1,1,1,1,3,No,Yes,7,1524.0,6,46.0,Instagram,5,Need more category choice
+475,16-24,Male,Suburban,Employed,23300.0,2,1881.0,Shein,47.0,3.0,1,2,3,4,16.0,0.0,4,3,1,1,1,0,1,0,0,1,0,0,0,1,0,1,0,4,No,Yes,6,2454.0,8,32.0,Friends,3,"Love eco-friendly fabrics, would buy immediately"
+476,16-24,Female,Other,Student,3100.0,2,233.0,Shein,15.0,1.0,3,3,3,3,11.0,,3,4,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,No,No,3,32.0,3,5.0,Instagram,3,Depends on the fit and fabric
+477,25-34,Male,Suburban,Employed,10800.0,5,434.0,Uniqlo,,2.0,3,5,2,3,45.0,0.0,3,3,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,No,No,1,10.0,2,6.0,TikTok,4,Worried the quality will not justify the price
+478,25-34,Female,Metro core,Employed,4100.0,1,213.0,H&M,36.0,4.0,1,3,2,4,32.0,5.0,2,1,1,1,1,0,1,1,0,0,0,1,1,1,0,1,0,3,Yes,No,4,66.0,5,10.0,Facebook,2,Need more category choice
+479,25-34,Male,Suburban,Employed,4400.0,3,335.0,H&M,26.0,2.0,3,4,1,2,,0.0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,No,No,0,0.0,1,0.0,TikTok,1,"Only grey is too limiting, I need colour"
+480,25-34,Female,Metro core,Student,2600.0,0,1220.0,Shein,16.0,2.0,4,4,4,4,23.0,10.0,4,4,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,4,No,Yes,10,121.0,5,15.0,TikTok,3,"Love eco-friendly fabrics, would buy immediately"
+481,25-34,Female,Suburban,Employed,9400.0,3,336.0,Uniqlo,98.0,1.0,3,3,2,2,65.0,10.0,3,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,No,No,1,22.0,2,13.0,Instagram,3,"Only grey is too limiting, I need colour"
+482,16-24,Male,Suburban,Student,1500.0,1,47.0,Shein,15.0,3.0,5,5,3,2,22.0,15.0,3,4,1,1,0,0,0,1,1,0,0,0,1,0,1,0,0,2,No,No,3,4.0,2,4.0,Instagram,3,"I already shop at H&M and Zara, why switch"
+483,25-34,Male,Suburban,Employed,11300.0,1,656.0,H&M,75.0,3.0,1,1,3,3,62.0,5.0,5,3,1,1,0,1,1,0,0,0,1,0,0,0,0,1,1,4,Maybe,Yes,10,606.0,4,45.0,Pop-up,3,"Nothing really, I love the minimalist idea"
+484,16-24,Male,Metro core,Employed,11600.0,3,451.0,Zara,34.0,1.0,3,2,4,1,39.0,5.0,5,4,1,1,0,0,1,1,0,0,0,1,1,0,0,1,0,3,Maybe,No,5,76.0,4,17.0,TikTok,2,Need more category choice
+485,16-24,Prefer not to say,Metro core,Student,3800.0,3,377.0,Local/Other,42.0,2.0,2,4,3,3,34.0,0.0,3,1,0,1,0,0,1,0,0,0,0,0,1,0,1,1,0,2,No,No,1,16.0,2,5.0,Instagram,3,Delivery and returns need to be easy
+486,25-34,Male,Metro core,Employed,11700.0,2,751.0,H&M,37.0,1.0,5,3,2,3,43.0,10.0,3,3,1,1,1,0,0,0,1,0,0,0,1,0,1,1,0,2,No,No,6,174.0,5,14.0,Instagram,3,Too expensive compared to Shein
+487,25-34,Male,Metro core,Student,4300.0,1,76.0,H&M,27.0,3.0,2,3,3,2,25.0,0.0,3,5,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,No,No,1,4.0,2,2.0,TikTok,3,"Only grey is too limiting, I need colour"
+488,16-24,Male,Metro core,Employed,11000.0,5,1127.0,Uniqlo,,4.0,2,5,3,4,66.0,0.0,2,3,1,1,1,1,0,1,0,0,0,0,1,0,0,1,0,4,No,Yes,8,1152.0,5,18.0,TikTok,4,"Nothing really, I love the minimalist idea"
+489,25-34,Female,Metro core,Employed,10400.0,1,420.0,Uniqlo,67.0,2.0,3,3,3,2,61.0,10.0,2,2,0,1,0,0,1,1,1,0,0,0,1,0,0,1,0,1,No,No,0,1.0,1,2.0,Friends,3,Delivery and returns need to be easy
+490,25-34,Female,Metro core,Employed,17800.0,5,675.0,Local/Other,91.0,3.0,4,4,5,4,104.0,5.0,4,4,1,1,1,1,0,1,0,0,1,0,0,0,0,1,0,4,No,Yes,9,4715.0995476979615,7,88.0,Instagram,4,"Nothing really, I love the minimalist idea"
+491,25-34,Female,Suburban,Employed,7100.0,1,555.0,Local/Other,23.0,3.0,3,4,4,3,27.0,10.0,2,4,1,1,1,1,1,1,0,1,0,0,1,0,0,1,0,3,Maybe,Yes,7,211.0,4,17.0,Search,4,Would want to try in a pop-up first
+492,25-34,Male,Other,Other,21300.0,3,670.0,Shein,,3.0,5,3,3,3,64.0,5.0,4,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,2,No,Yes,5,240.0,4,14.0,TikTok,3,Not sure the sustainable claim is genuine
+493,25-34,Female,Metro core,Employed,13000.0,6,1015.0,H&M,61.0,4.0,4,4,4,4,66.0,5.0,4,3,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,4,Yes,No,10,2107.0,10,53.0,Facebook,3,"Great concept, please add more basics"
+494,16-24,Female,Suburban,Student,3000.0,5,269.0,Zara,60.0,,3,2,1,3,41.0,10.0,3,3,1,0,0,1,0,0,0,1,0,0,1,0,1,1,0,2,No,No,0,10.0,3,7.0,Friends,4,Not sure the sustainable claim is genuine
+495,35-50,Male,Suburban,Other,10300.0,2,1027.0,Local/Other,68.0,5.0,2,2,5,4,68.0,0.0,4,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,4,Yes,Yes,10,2164.0,13,48.0,TikTok,3,"Nothing really, I love the minimalist idea"
+496,25-34,Female,Metro core,Employed,25600.0,4,1468.0,Zara,83.0,5.0,4,2,3,5,74.0,0.0,3,3,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,5,Maybe,Yes,10,2900.0,7,58.0,Instagram,4,"Nothing really, I love the minimalist idea"
+497,25-34,Female,Metro core,Other,8600.0,3,576.0,Local/Other,49.0,5.0,4,3,4,5,83.0,5.0,4,4,1,0,1,1,1,1,0,1,0,1,1,0,0,0,0,4,Yes,Yes,10,1506.0,7,45.0,Facebook,2,"Nothing really, I love the minimalist idea"
+498,25-34,Male,Suburban,Employed,5300.0,1,196.0,Uniqlo,73.0,1.0,3,2,1,3,54.0,0.0,2,3,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,No,No,1,2.0,1,4.0,Friends,5,"I already shop at H&M and Zara, why switch"
+499,25-34,Male,Other,Employed,20700.0,3,1495.0,H&M,93.0,4.0,3,3,2,3,87.0,10.0,2,3,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,2,No,Yes,3,153.0,2,17.0,Search,1,"I already shop at H&M and Zara, why switch"
+500,25-34,Female,Suburban,Employed,9400.0,2,459.0,Zara,57.0,2.0,2,3,3,2,37.0,0.0,5,2,1,1,1,1,0,0,1,1,0,0,1,1,1,1,0,2,No,Yes,3,52.0,3,15.0,Facebook,5,Delivery and returns need to be easy
+501,25-34,Female,Other,Employed,11500.0,2,700.0,Shein,39.0,3.0,5,3,3,5,73.0,15.0,2,3,1,1,1,1,0,1,1,0,0,0,1,1,0,0,0,4,No,Yes,9,780.0,6,27.0,Search,3,"Nothing really, I love the minimalist idea"
+502,35-50,Female,Other,Self-employed,10600.0,1,334.0,H&M,59.0,3.0,4,2,4,5,74.0,10.0,3,3,1,0,0,1,0,0,0,1,1,0,1,1,0,1,0,4,Yes,Yes,7,327.0,7,44.0,Friends,1,"Great concept, please add more basics"
+503,35-50,Male,Metro core,Employed,18800.0,2,1199.0,Zara,84.0,3.0,3,3,4,4,92.0,5.0,3,4,1,1,0,0,0,0,1,1,1,0,1,1,1,1,1,4,No,Yes,8,707.0,5,62.0,Pop-up,3,"Love eco-friendly fabrics, would buy immediately"
+504,25-34,Male,Suburban,Other,4500.0,3,431.0,Shein,15.0,4.0,2,2,4,1,19.0,0.0,5,3,1,1,0,0,1,1,1,1,0,1,0,1,0,1,0,3,No,No,7,340.0,5,8.0,Instagram,4,Depends on the fit and fabric
+505,25-34,Female,Metro core,Employed,11500.0,4,565.0,H&M,55.0,4.0,2,4,3,3,34.0,0.0,1,3,0,1,1,1,0,1,1,0,1,0,1,0,1,1,1,2,No,No,4,76.0,4,12.0,Search,1,Not sure the sustainable claim is genuine
+506,35-50,Male,Other,Employed,13100.0,2,960.0,Zara,102.0,4.0,2,2,4,4,111.0,5.0,5,2,1,1,1,1,1,1,0,0,0,0,0,1,1,1,0,4,No,Yes,7,380.0,4,51.0,Instagram,2,"Nothing really, I love the minimalist idea"
+507,16-24,Female,Metro core,Student,5900.0,3,195.0,Uniqlo,47.0,3.0,3,3,1,3,21.0,10.0,1,3,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,2,No,No,0,6.0,3,5.0,TikTok,3,Too expensive compared to Shein
+508,35-50,Female,Metro core,Employed,36200.0,3,2265.0,Shein,76.0,3.0,4,3,2,5,90.0,5.0,3,4,1,1,1,1,1,1,0,0,1,0,1,0,0,1,1,2,No,No,5,406.0,3,22.0,Friends,4,Not sure the sustainable claim is genuine
+509,25-34,Prefer not to say,Suburban,Self-employed,14300.0,2,633.0,Zara,85.0,2.0,4,1,2,4,87.0,5.0,3,4,1,0,1,1,1,0,0,0,1,1,0,0,0,1,0,1,Yes,No,3,54.0,2,12.0,Search,2,"I already shop at H&M and Zara, why switch"
+510,16-24,Female,Metro core,Employed,11300.0,2,399.0,Local/Other,98.0,2.0,2,1,4,3,64.0,0.0,5,2,1,1,1,0,1,0,1,0,0,1,1,0,0,0,0,4,No,No,10,725.0,5,73.0,TikTok,1,"Nothing really, I love the minimalist idea"
+511,16-24,Female,Suburban,Other,5100.0,2,380.0,Local/Other,41.0,4.0,3,2,5,4,44.0,5.0,5,1,1,1,1,1,0,1,1,1,1,0,0,0,0,1,1,5,Maybe,No,10,348.0,6,26.0,Instagram,5,"Great concept, please add more basics"
+512,35-50,Female,Metro core,Employed,24400.0,3,1384.0,Zara,116.0,3.0,4,3,2,3,100.0,0.0,2,2,1,1,1,1,1,0,1,1,0,0,0,0,0,1,1,2,No,No,4,285.0,4,37.0,Search,4,Delivery and returns need to be easy
+513,16-24,Male,Other,Student,2200.0,2,226.0,H&M,15.0,3.0,2,3,3,3,10.0,5.0,3,2,1,1,1,0,0,0,0,1,1,0,1,0,1,1,0,3,No,No,4,140.0,4,5.0,Pop-up,2,Would want to try in a pop-up first
+514,16-24,Male,Suburban,Student,2100.0,6,88.0,Shein,,4.0,5,2,3,4,21.0,10.0,4,3,1,0,1,1,1,0,0,0,0,0,1,1,1,0,0,4,No,Yes,9,,10,9.0,Friends,4,"Great concept, please add more basics"
+515,16-24,Prefer not to say,Metro core,Student,,4,152.0,H&M,33.0,5.0,5,1,5,3,31.0,5.0,5,3,1,1,1,1,0,1,0,0,1,1,1,1,0,1,0,5,Maybe,No,10,268.0,7,28.0,TikTok,4,"Love eco-friendly fabrics, would buy immediately"
+516,16-24,Female,Suburban,Student,2000.0,3,90.0,Shein,15.0,3.0,3,3,3,2,31.0,5.0,3,4,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,5,No,No,7,27.0,5,3.0,TikTok,3,"Love eco-friendly fabrics, would buy immediately"
+517,16-24,Female,Metro core,Student,2500.0,5,179.0,Uniqlo,24.0,2.0,3,4,4,4,10.0,5.0,3,3,1,1,1,0,1,0,0,0,1,0,1,0,1,1,1,3,Yes,Yes,7,170.0,7,9.0,Search,2,Would want to try in a pop-up first
+518,35-50,Male,Metro core,Self-employed,9300.0,4,502.0,Zara,84.0,4.0,3,5,3,3,53.0,10.0,1,4,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,3,No,No,2,44.0,4,21.0,Instagram,2,Need more category choice
+519,16-24,Female,Suburban,Student,3400.0,2,95.0,Uniqlo,24.0,1.0,1,3,3,3,12.0,5.0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,3,No,Yes,2,15.0,3,7.0,Friends,2,Depends on the fit and fabric
+520,35-50,Male,Suburban,Employed,35600.0,2,1810.0,Uniqlo,107.0,3.0,4,3,5,2,112.0,15.0,4,3,0,0,1,0,0,1,0,0,1,1,0,1,1,1,1,4,No,Yes,6,1355.0,6,53.0,Friends,3,"Love eco-friendly fabrics, would buy immediately"
+521,35-50,Male,Metro core,Other,11200.0,2,651.0,Local/Other,75.0,3.0,3,4,2,2,,0.0,1,1,1,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,No,No,0,1.0,1,2.0,Search,3,"Only grey is too limiting, I need colour"
+522,25-34,Female,Metro core,Student,,2,320.0,H&M,,4.0,5,4,4,4,47.0,0.0,3,3,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,2,No,No,4,133.0,4,7.0,Friends,1,Delivery and returns need to be easy
+523,16-24,Male,Suburban,Student,1700.0,1,,Local/Other,24.0,3.0,2,5,3,2,17.0,5.0,3,2,1,1,1,0,0,1,0,0,1,1,0,1,0,1,0,1,No,No,3,1.0,2,1.0,Instagram,4,Not sure the sustainable claim is genuine
+524,25-34,Female,Metro core,Employed,12200.0,3,558.0,H&M,68.0,5.0,3,4,3,3,64.0,10.0,2,4,1,1,1,0,0,1,0,0,0,0,1,0,0,1,0,2,No,No,2,198.0,4,18.0,Pop-up,3,"Only grey is too limiting, I need colour"
+525,16-24,Female,Metro core,Student,1600.0,2,121.0,Shein,15.0,2.0,5,5,4,3,10.0,5.0,3,4,1,1,1,1,1,1,0,0,0,0,1,0,1,1,0,2,No,No,6,37.0,7,9.0,Search,3,"I already shop at H&M and Zara, why switch"
+526,25-34,Male,Metro core,Employed,9900.0,3,701.0,Local/Other,30.0,4.0,5,3,4,3,28.0,10.0,2,4,1,1,0,0,1,0,1,0,1,1,1,0,1,1,1,5,Maybe,Yes,8,945.0,8,23.0,Search,3,"Nothing really, I love the minimalist idea"
+527,35-50,Female,Metro core,Employed,21000.0,4,823.0,Zara,89.0,3.0,3,2,2,2,44.0,0.0,2,2,1,1,0,1,1,0,0,1,0,0,0,0,0,0,1,2,No,No,2,22.0,2,11.0,TikTok,4,Not sure the sustainable claim is genuine
+528,35-50,Male,Suburban,Employed,15500.0,0,553.0,H&M,79.0,5.0,2,2,4,4,85.0,10.0,5,2,1,0,1,1,1,1,0,0,1,1,0,1,0,1,0,5,Yes,Yes,10,1585.0,8,73.0,Facebook,5,"Great concept, please add more basics"
+529,35-50,Male,Metro core,Employed,7900.0,5,258.0,Shein,58.0,3.0,3,2,3,2,43.0,5.0,5,2,1,0,1,0,1,0,0,1,0,1,1,0,0,1,0,3,No,No,7,101.0,3,14.0,Pop-up,2,Depends on the fit and fabric
+530,16-24,Prefer not to say,Metro core,Student,1400.0,4,63.0,Shein,15.0,5.0,2,5,4,4,10.0,,5,3,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,4,Yes,No,10,66.0,5,9.0,Facebook,3,"Nothing really, I love the minimalist idea"
+531,25-34,Prefer not to say,Other,Employed,5900.0,2,355.0,Zara,74.0,4.0,2,4,3,2,50.0,5.0,3,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,No,No,3,29.0,2,16.0,Instagram,4,"Only grey is too limiting, I need colour"
+532,25-34,Female,Metro core,Employed,13700.0,2,976.0,Zara,64.0,3.0,2,3,1,3,65.0,5.0,3,3,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,3,No,No,6,317.0,3,19.0,Instagram,5,Depends on the fit and fabric
+533,25-34,Female,Suburban,Employed,27800.0,1,1997.0,Shein,67.0,,3,2,3,3,90.0,10.0,4,3,1,1,1,0,0,1,0,0,1,1,1,0,1,0,1,2,No,No,4,57.0,2,18.0,Instagram,3,"I already shop at H&M and Zara, why switch"
+534,25-34,Male,Metro core,Self-employed,25800.0,2,1346.0,H&M,107.0,2.0,4,5,3,5,,15.0,3,4,1,1,0,0,0,0,0,0,0,1,1,0,1,1,0,3,No,No,8,,6,43.0,Instagram,2,Depends on the fit and fabric
+535,16-24,Prefer not to say,Suburban,Student,1100.0,2,102.0,Uniqlo,15.0,4.0,4,4,3,3,10.0,5.0,3,3,1,1,1,1,1,1,1,0,0,1,0,0,1,1,0,3,No,Yes,6,57.0,4,8.0,TikTok,4,Depends on the fit and fabric
+536,16-24,Female,Suburban,Employed,20900.0,3,1761.0,Zara,109.0,4.0,5,2,3,3,140.0,0.0,5,5,1,1,1,1,0,1,0,0,1,0,1,0,0,0,0,4,Yes,Yes,10,2781.0,6,109.0,Search,3,"Great concept, please add more basics"
+537,25-34,Female,Suburban,Employed,16800.0,2,487.0,H&M,87.0,4.0,3,2,4,2,113.0,5.0,4,4,1,0,1,1,1,0,1,1,0,0,0,0,1,0,1,4,Maybe,No,7,600.0,9,55.0,Friends,1,"Great concept, please add more basics"
+538,16-24,Female,Metro core,Student,1200.0,2,210.0,Shein,15.0,3.0,4,3,5,4,10.0,0.0,4,4,1,0,1,1,1,1,0,0,1,1,0,0,1,1,0,4,Yes,Yes,9,380.0,3,13.0,Instagram,2,"Great concept, please add more basics"
+539,16-24,Female,Metro core,Student,2200.0,1,100.0,Zara,22.0,4.0,3,4,3,4,21.0,10.0,2,3,0,1,1,1,0,0,1,1,1,0,1,0,0,1,1,3,No,Yes,8,92.31275448158483,3,6.0,Facebook,3,Would want to try in a pop-up first
+540,35-50,Male,Suburban,Student,,2,266.0,Local/Other,28.0,2.0,3,3,4,3,19.0,,3,3,1,1,1,0,1,0,0,0,1,0,0,0,0,1,0,5,Maybe,Yes,6,379.0,6,11.0,Facebook,4,"Love eco-friendly fabrics, would buy immediately"
+541,35-50,Female,Metro core,Other,10400.0,4,772.0,Uniqlo,96.0,5.0,2,5,3,3,86.0,0.0,2,3,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,2,Maybe,Yes,4,179.0,3,29.0,Pop-up,2,"I already shop at H&M and Zara, why switch"
+542,25-34,Male,Metro core,Employed,6100.0,4,491.0,Zara,67.0,4.0,2,5,1,3,34.0,0.0,1,2,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,2,No,No,1,53.0,3,16.0,Search,3,"I already shop at H&M and Zara, why switch"
+543,35-50,Male,Metro core,Self-employed,24900.0,4,1391.0,Zara,105.0,4.0,5,5,4,3,117.0,0.0,1,3,1,0,0,1,0,0,1,0,1,1,0,0,1,1,0,3,No,No,6,1214.0,5,64.0,Instagram,4,Would want to try in a pop-up first
+544,35-50,Male,Other,Employed,5700.0,2,359.0,Zara,50.0,4.0,3,3,3,2,40.0,0.0,2,4,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,2,No,No,2,63.0,3,13.0,Search,2,"Only grey is too limiting, I need colour"
+545,16-24,Female,Suburban,Employed,10000.0,4,911.0,Shein,39.0,3.0,3,3,3,3,38.0,5.0,3,3,1,1,1,1,1,0,1,0,0,0,1,0,0,0,0,3,No,No,4,601.0,3,19.0,Instagram,3,Need more category choice
+546,25-34,Female,Suburban,Employed,18400.0,3,1157.0,Uniqlo,89.0,3.0,2,2,2,3,84.0,0.0,3,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,2,No,No,5,311.0,2,21.0,Pop-up,3,Delivery and returns need to be easy
+547,25-34,Male,Suburban,Employed,11100.0,1,435.0,Shein,,4.0,3,3,4,3,51.0,5.0,4,4,1,0,1,1,0,1,0,1,0,0,0,1,0,1,1,2,Maybe,No,8,440.0,5,38.0,Search,2,Would want to try in a pop-up first
+548,16-24,Male,Metro core,Employed,8800.0,1,356.0,Zara,80.0,3.0,4,2,4,4,110.0,10.0,4,4,1,1,0,1,1,0,1,1,0,1,1,0,0,1,1,4,No,No,8,623.0,5,45.0,Friends,2,"Great concept, please add more basics"
+549,35-50,Female,Metro core,Other,12100.0,3,504.0,Zara,67.0,5.0,5,1,4,5,118.0,15.0,4,4,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,5,Yes,No,10,1703.0,6,54.0,Instagram,2,"Great concept, please add more basics"
+550,25-34,Male,Metro core,Self-employed,21700.0,2,1465.0,H&M,62.0,3.0,1,1,4,3,57.0,0.0,3,5,1,1,0,0,1,1,0,1,0,1,0,0,1,1,0,4,No,No,8,748.0,7,39.0,Instagram,3,"Love eco-friendly fabrics, would buy immediately"
+551,25-34,Female,Suburban,Employed,19800.0,2,1285.0,Shein,60.0,1.0,3,5,4,3,58.0,10.0,3,3,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,3,No,Yes,7,165.0,5,16.0,Instagram,2,Would want to try in a pop-up first
+552,16-24,Male,Metro core,Employed,16300.0,2,1429.0,Zara,61.0,5.0,2,2,2,5,63.0,10.0,3,2,1,1,1,1,1,1,1,0,1,1,0,0,0,1,0,1,Maybe,Yes,9,1606.0,7,43.0,Instagram,4,Would want to try in a pop-up first
+553,16-24,Female,Suburban,Student,4100.0,1,258.0,Uniqlo,,4.0,4,5,3,4,50.0,15.0,2,3,1,1,1,1,0,1,0,0,1,0,1,0,1,0,1,2,Yes,Yes,3,144.0,5,15.0,Instagram,2,"Only grey is too limiting, I need colour"
+554,35-50,Female,Suburban,Self-employed,26300.0,2,1419.0,Zara,94.0,3.0,4,3,2,5,117.0,5.0,2,5,1,1,0,0,1,1,1,1,0,0,0,0,1,1,0,4,Yes,No,9,773.0,6,58.0,Instagram,1,"Nothing really, I love the minimalist idea"
+555,16-24,Male,Metro core,Student,2800.0,0,223.0,Zara,42.0,3.0,3,3,3,3,47.0,,3,3,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2,No,No,5,9.0,2,5.0,TikTok,3,Not sure the sustainable claim is genuine
+556,16-24,Female,Metro core,Employed,11500.0,3,1151.0,Shein,73.0,4.0,2,2,3,3,64.0,0.0,4,2,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,5,Yes,No,9,2175.0,8,53.0,Instagram,4,"Love eco-friendly fabrics, would buy immediately"
+557,16-24,Female,Metro core,Student,2200.0,6,226.0,Uniqlo,15.0,5.0,3,2,3,2,16.0,0.0,3,4,1,0,1,0,0,1,1,1,1,1,1,0,1,1,0,3,No,No,8,169.0,8,13.0,TikTok,4,Need more category choice
+558,25-34,Female,Other,Student,1400.0,4,108.0,Local/Other,36.0,4.0,4,3,3,4,32.0,5.0,3,3,1,1,1,1,0,0,0,1,0,1,0,1,1,1,0,4,Yes,No,10,178.0,5,21.0,Pop-up,4,"Great concept, please add more basics"
+559,25-34,Female,Other,Employed,7200.0,2,298.0,H&M,47.0,4.0,3,4,3,2,47.0,10.0,3,3,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3,No,No,2,13.0,3,5.0,Instagram,3,Too expensive compared to Shein
+560,25-34,Male,Other,Self-employed,12300.0,2,956.0,Uniqlo,80.0,3.0,3,3,3,3,102.0,10.0,3,3,1,1,1,1,1,1,0,1,1,0,1,1,0,1,0,4,Yes,Yes,10,1317.0,5,51.0,Friends,3,"Great concept, please add more basics"
+561,16-24,Female,Metro core,Employed,12300.0,5,1276.0,H&M,46.0,4.0,1,3,2,1,29.0,0.0,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,No,No,2,18.0,2,4.0,Friends,4,"Only grey is too limiting, I need colour"
+562,16-24,Male,Metro core,Student,4800.0,1,,Shein,32.0,5.0,4,2,4,2,17.0,5.0,5,2,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,4,Yes,Yes,10,665.0,5,22.0,TikTok,2,"Nothing really, I love the minimalist idea"
+563,35-50,Male,Metro core,Employed,14600.0,4,602.0,Uniqlo,81.0,3.0,5,3,4,3,91.0,5.0,5,3,0,1,0,1,0,0,0,1,0,0,1,1,1,1,1,5,Yes,No,10,1010.0,5,72.0,Friends,4,"Great concept, please add more basics"
+564,25-34,Female,Metro core,Employed,17300.0,3,1581.0,Zara,88.0,4.0,2,2,4,2,104.0,5.0,4,4,1,1,0,0,1,0,0,0,1,1,1,0,1,1,0,4,Yes,No,6,1687.0,4,71.0,Pop-up,3,"Great concept, please add more basics"
+565,25-34,Female,Metro core,Employed,17900.0,4,819.0,Shein,27.0,4.0,2,3,3,3,23.0,5.0,4,3,1,0,1,1,0,0,0,1,1,1,0,0,0,1,1,2,Yes,Yes,5,335.0,4,10.0,Friends,3,Depends on the fit and fabric
+566,25-34,Male,Metro core,Employed,9900.0,3,523.0,,73.0,4.0,2,1,1,4,88.0,5.0,3,2,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,No,No,2,19.0,2,6.0,Friends,3,"Only grey is too limiting, I need colour"
+567,35-50,Male,Other,Employed,19400.0,2,758.0,H&M,93.0,4.0,2,2,4,5,72.0,5.0,5,1,1,1,1,1,0,0,1,0,1,1,1,0,1,1,0,4,Maybe,Yes,10,2071.0,12,47.0,Pop-up,2,"Great concept, please add more basics"
+568,16-24,Male,Metro core,Student,2200.0,1,154.0,Zara,24.0,2.0,4,3,3,5,27.0,10.0,3,4,1,1,1,1,0,1,1,0,1,1,1,0,0,0,0,4,Yes,Yes,6,285.0,7,18.0,Pop-up,3,"Love eco-friendly fabrics, would buy immediately"
+569,25-34,Male,Metro core,Employed,19900.0,3,992.0,H&M,99.0,4.0,3,3,3,4,118.0,10.0,2,4,1,0,0,1,1,1,0,1,0,0,0,1,0,1,0,4,No,No,6,1077.0,6,36.0,Facebook,2,"Nothing really, I love the minimalist idea"
+570,25-34,Female,Suburban,Employed,14600.0,1,1098.0,Local/Other,89.0,3.0,2,2,1,3,76.0,5.0,4,2,0,1,1,0,0,0,0,1,0,1,1,0,0,1,0,1,No,No,0,26.0,2,6.0,Facebook,4,Worried the quality will not justify the price
+571,16-24,Female,Metro core,Student,1500.0,2,53.0,Shein,15.0,2.0,2,2,2,4,,0.0,2,2,0,0,1,0,0,0,0,1,0,1,0,1,0,1,0,3,No,No,2,13.0,4,6.0,Friends,2,Would want to try in a pop-up first
+572,35-50,Male,Suburban,Employed,16000.0,0,1026.0,Shein,77.0,1.0,2,3,1,3,46.0,5.0,3,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,No,No,0,2.0,1,2.0,Friends,3,"Only grey is too limiting, I need colour"
+573,25-34,Female,Suburban,Employed,23100.0,2,1557.0,Shein,64.0,5.0,2,5,4,3,57.0,5.0,2,2,1,1,0,1,1,0,1,1,1,1,0,0,0,1,1,3,Maybe,Yes,6,1222.0,7,36.0,Friends,3,Need more category choice
+574,35-50,Male,Suburban,Self-employed,17400.0,0,1195.0,Shein,56.0,4.0,2,1,3,2,74.0,5.0,5,3,1,0,1,1,1,1,0,0,1,0,0,1,0,0,0,4,No,No,4,1643.0,4,24.0,Instagram,2,"Great concept, please add more basics"
+575,35-50,Female,Suburban,Employed,18200.0,4,1428.0,Zara,92.0,3.0,3,4,4,3,110.0,10.0,4,5,1,1,1,0,1,0,0,1,0,1,0,1,0,1,0,5,No,No,8,1910.0,3,62.0,Instagram,3,"Great concept, please add more basics"
+576,25-34,Male,Metro core,Self-employed,17900.0,3,796.0,H&M,79.0,2.0,2,2,2,3,30.0,5.0,4,2,1,0,1,0,1,0,0,1,1,0,0,0,0,1,1,2,No,No,9,405.0,5,36.0,Friends,2,Delivery and returns need to be easy
+577,35-50,Female,Suburban,Employed,9300.0,1,256.0,Zara,31.0,5.0,2,3,5,4,28.0,10.0,5,3,1,0,1,1,1,0,0,1,1,0,1,1,0,0,0,4,Maybe,Yes,6,594.0,4,23.0,Pop-up,2,"Nothing really, I love the minimalist idea"
+578,25-34,Female,Metro core,Employed,13800.0,4,942.0,Local/Other,68.0,4.0,4,2,2,3,53.0,0.0,3,4,0,0,0,1,1,0,1,1,0,1,1,0,0,1,0,4,No,No,8,562.0,7,44.0,TikTok,5,"Nothing really, I love the minimalist idea"
+579,35-50,Female,Metro core,Employed,7900.0,3,643.0,Local/Other,33.0,2.0,1,3,2,5,10.0,10.0,5,3,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,3,No,No,9,278.0,4,21.0,Search,2,Would want to try in a pop-up first
+580,25-34,Female,Metro core,Self-employed,10600.0,2,606.0,Shein,65.0,1.0,3,3,2,3,42.0,5.0,3,3,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,2,No,No,1,11.0,1,5.0,Pop-up,1,Too expensive compared to Shein
+581,25-34,Male,Metro core,Employed,17800.0,2,689.0,H&M,102.0,2.0,2,2,2,3,84.0,0.0,2,5,0,1,0,1,0,1,1,0,1,1,0,0,0,1,0,2,No,No,4,11.0,2,9.0,Pop-up,3,Too expensive compared to Shein
+582,25-34,Female,Suburban,Employed,12900.0,3,957.0,H&M,81.0,3.0,4,4,3,4,110.0,5.0,3,4,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,3,No,Yes,5,484.0,4,28.0,Pop-up,2,Would want to try in a pop-up first
+583,16-24,Female,Metro core,Student,2200.0,5,150.0,Local/Other,15.0,3.0,3,2,3,2,16.0,0.0,3,3,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,4,No,No,7,79.0,4,7.0,Instagram,3,"Great concept, please add more basics"
+584,25-34,Female,Metro core,Employed,13400.0,4,892.0,H&M,54.0,4.0,3,5,4,3,66.0,0.0,2,3,1,0,1,0,0,1,0,0,0,0,1,1,0,1,0,2,No,No,5,51.0,3,8.0,Facebook,3,Too expensive compared to Shein
+585,35-50,Female,Metro core,Employed,14500.0,3,1020.0,Uniqlo,70.0,3.0,3,3,4,3,68.0,10.0,2,4,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,2,Maybe,Yes,6,720.0,6,32.0,Instagram,3,Depends on the fit and fabric
+586,25-34,Male,Suburban,Employed,11100.0,1,1266.0,Zara,105.0,4.0,2,1,2,1,91.0,10.0,4,4,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,No,No,0,103.0,3,20.0,Facebook,4,Worried the quality will not justify the price
+587,16-24,Female,Metro core,Other,8100.0,1,522.0,H&M,44.0,2.0,4,4,2,2,45.0,0.0,1,3,1,1,1,1,0,1,1,1,1,0,0,0,1,0,0,2,No,No,1,44.0,2,7.0,Instagram,2,"I already shop at H&M and Zara, why switch"
+588,16-24,Prefer not to say,Suburban,Student,1800.0,3,135.0,Uniqlo,15.0,3.0,1,3,4,5,17.0,0.0,1,3,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,3,No,No,3,66.0,5,5.0,Friends,4,Would want to try in a pop-up first
+589,16-24,Female,Suburban,Employed,11200.0,3,798.0,Local/Other,80.0,4.0,3,5,5,3,96.0,10.0,3,3,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,4,Yes,Yes,10,3040.0,7,59.0,Friends,1,"Love eco-friendly fabrics, would buy immediately"
+590,16-24,Male,Metro core,Student,,3,226.0,Shein,16.0,5.0,3,4,4,2,10.0,5.0,3,4,1,1,1,0,0,1,1,0,0,1,1,0,1,1,0,4,Yes,No,10,311.0,5,16.0,Instagram,3,"Great concept, please add more basics"
+591,35-50,Female,Suburban,Self-employed,9300.0,1,461.0,Uniqlo,91.0,3.0,3,3,4,3,93.0,10.0,2,3,1,1,1,0,1,1,0,1,0,0,1,1,0,0,0,1,No,No,4,110.0,3,15.0,Friends,1,Too expensive compared to Shein
+592,25-34,Female,Metro core,Self-employed,9300.0,1,737.0,,86.0,2.0,3,4,1,2,74.0,,1,2,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,No,No,0,2.0,1,1.0,Friends,2,"I already shop at H&M and Zara, why switch"
+593,16-24,Male,Metro core,Student,5100.0,4,406.0,Local/Other,58.0,5.0,3,2,5,3,64.0,0.0,4,4,0,1,1,1,0,0,1,1,0,1,0,1,1,0,1,4,Maybe,Yes,10,1047.0,9,41.0,Friends,3,"Great concept, please add more basics"
+594,25-34,Prefer not to say,Suburban,Employed,13100.0,5,747.0,Uniqlo,78.0,2.0,3,3,4,4,80.0,5.0,3,4,0,1,0,0,1,0,0,0,1,1,0,0,1,1,0,4,Yes,No,7,778.0,4,37.0,Search,3,"Nothing really, I love the minimalist idea"
+595,16-24,Male,Other,Student,1400.0,3,40.0,Uniqlo,15.0,4.0,4,4,3,2,10.0,0.0,2,2,1,1,1,1,1,0,1,1,0,1,1,1,1,0,0,3,No,Yes,6,25.0,5,7.0,Instagram,5,Depends on the fit and fabric
+596,16-24,Female,Metro core,Other,3000.0,2,266.0,Shein,15.0,3.0,4,4,5,2,12.0,0.0,4,4,0,1,1,1,0,0,1,0,1,1,0,1,0,0,0,5,Yes,Yes,7,274.0,5,10.0,Instagram,4,"Nothing really, I love the minimalist idea"
+597,25-34,Female,Metro core,Employed,10500.0,2,684.0,H&M,71.0,3.0,1,4,4,3,72.0,10.0,4,3,1,1,0,0,0,0,0,1,0,0,1,1,1,0,0,4,No,Yes,10,1142.0,6,51.0,Search,3,"Nothing really, I love the minimalist idea"
+598,25-34,Male,Metro core,Employed,22200.0,5,1185.0,H&M,83.0,3.0,3,3,3,3,64.0,10.0,3,3,0,1,1,0,1,0,1,0,1,0,1,0,1,1,0,3,Maybe,No,7,517.0,6,46.0,Instagram,3,Need more category choice
+599,35-50,Female,Metro core,Other,7400.0,5,291.0,Shein,27.0,1.0,2,5,2,3,20.0,,2,2,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,No,No,0,1.0,1,1.0,Pop-up,1,Delivery and returns need to be easy
+600,25-34,Male,Suburban,Employed,19800.0,4,932.0,Uniqlo,75.0,5.0,4,4,4,3,135.0,10.0,4,4,1,1,1,1,0,0,0,1,1,1,0,1,0,0,0,5,Maybe,Yes,10,1987.0,7,64.0,Instagram,4,"Love eco-friendly fabrics, would buy immediately"
+601,25-34,Prefer not to say,Metro core,Employed,8800.0,3,390.0,H&M,66.0,2.0,2,2,2,3,56.0,10.0,3,2,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,1,No,No,1,8.0,2,5.0,Friends,4,Not sure the sustainable claim is genuine
+602,35-50,Female,Metro core,Self-employed,27400.0,3,1808.0,Zara,94.0,3.0,2,4,3,4,115.0,10.0,4,4,1,1,1,0,1,1,0,1,1,0,0,0,0,1,0,4,Yes,No,8,2459.0,6,68.0,Friends,4,"Great concept, please add more basics"
+603,25-34,Male,Metro core,Employed,9900.0,3,523.0,,73.0,4.0,2,1,1,4,88.0,5.0,3,2,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,No,No,2,19.0,2,6.0,Friends,3,"Only grey is too limiting, I need colour"
+604,25-34,Female,Metro core,Employed,31800.0,4,,Local/Other,88.0,3.0,2,3,2,4,76.0,5.0,2,4,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2,No,No,0,25.0,1,3.0,Pop-up,3,"I already shop at H&M and Zara, why switch"
+605,35-50,Male,Metro core,Self-employed,21500.0,3,1025.0,Zara,87.0,3.0,1,4,2,4,68.0,0.0,2,2,1,1,1,1,1,0,0,0,1,0,0,0,1,1,0,1,No,No,1,19.0,2,8.0,TikTok,3,"Only grey is too limiting, I need colour"
+606,25-34,Female,Suburban,Employed,18900.0,1,968.0,Shein,85.0,1.0,5,5,2,5,131.0,5.0,1,4,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,No,No,1,18.0,1,4.0,Instagram,3,"I already shop at H&M and Zara, why switch"
+607,25-34,Male,Suburban,Employed,9600.0,1,642.0,H&M,67.0,3.0,4,5,3,3,58.0,5.0,2,3,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,No,No,1,22.0,2,7.0,Friends,1,Too expensive compared to Shein
+608,25-34,Female,Suburban,Student,1800.0,0,,Shein,15.0,2.0,5,4,4,2,10.0,5.0,3,4,0,1,1,1,0,1,1,1,0,1,1,1,1,0,0,2,No,No,6,42.0,4,4.0,Search,2,Delivery and returns need to be easy
+609,25-34,Female,Suburban,Employed,9400.0,3,679.0,Shein,52.0,5.0,1,3,1,4,39.0,0.0,1,3,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,No,No,3,16.0,2,6.0,Friends,3,Worried the quality will not justify the price
